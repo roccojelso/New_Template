@@ -18,10 +18,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": false
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false
 		},
@@ -40,6 +36,10 @@
 		},
 		{
 			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEOS",
 			"Enabled": true
 		}
 	]
