@@ -2017,3 +2017,659 @@ Make sure 'WB_JoinServerMenu_C' has been compiled for  Get JoinServer
 [2022.09.05-19.04.53:414][522]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2022.09.05-19.04.53:619][522]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
 [2022.09.05-19.05.58:511][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2022.09.05-19.06.17:382][473]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7772.937988
+[2022.09.05-19.06.18:386][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.06.18:387][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7773.607422, Update Interval: 352.853180
+[2022.09.05-19.07.45:938][544]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-19.07.46:103][544]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2022.09.05-19.11.02:964][954]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-19.11.02:965][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-19.11.03:000][954]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-19.11.03:001][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-19.12.48:538][536]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.12.48:538][536]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.12.57:317][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8172.868164
+[2022.09.05-19.12.57:644][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.12.57:644][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8173.177734, Update Interval: 306.445496
+[2022.09.05-19.13.01:200][116]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.13.01:579][116]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2022.09.05-19.13.02:608][132]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-19.13.02:612][132]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu18A9055B43E3F77137D6F4BC48686C05.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-19.13.02:655][132]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-19.13.02:655][132]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-19.16.55:201][357]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2022.09.05-19.16.55:214][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FPS/Maps/MainMenu' took 0.190
+[2022.09.05-19.16.55:231][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/UI/Menus/WB_CreateMatchMenu] ([2] browsable assets)...
+[2022.09.05-19.16.55:231][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_CreateMatchMenu]
+[2022.09.05-19.16.55:563][357]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto7
+[2022.09.05-19.16.55:563][357]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu_Auto7C075D3E94AF67B011BDBFBB6971BBB6A.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto7.uasset'
+[2022.09.05-19.16.55:568][357]LogFileHelpers: Auto-saving content packages took 0.340
+[2022.09.05-19.18.37:898][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8513.422852
+[2022.09.05-19.18.38:241][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.18.38:241][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8513.753906, Update Interval: 328.448120
+[2022.09.05-19.21.50:703][431]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.21.50:703][431]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.24.39:966][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8875.602539
+[2022.09.05-19.24.40:228][779]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.24.40:228][779]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8875.844727, Update Interval: 326.714081
+[2022.09.05-19.27.03:890][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2022.09.05-19.27.03:900][ 35]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FPS/Maps/MainMenu' took 0.147
+[2022.09.05-19.27.03:901][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FPS/UI/Menus/WB_CreateMatchMenu] ([2] browsable assets)...
+[2022.09.05-19.27.03:914][ 35]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu]
+[2022.09.05-19.27.03:914][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_CreateMatchMenu]
+[2022.09.05-19.27.04:214][ 35]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto8
+[2022.09.05-19.27.04:215][ 35]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu_Auto8EA82DFE44BC058AFBA3FDB8433BC159E.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto8.uasset'
+[2022.09.05-19.27.04:220][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FPS/UI/Menus/WB_ServerSlot] ([2] browsable assets)...
+[2022.09.05-19.27.04:223][ 35]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot]
+[2022.09.05-19.27.04:224][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_ServerSlot]
+[2022.09.05-19.27.04:284][ 35]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_ServerSlot_Auto8
+[2022.09.05-19.27.04:284][ 35]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot_Auto8EBCA024E460B6F340C308BA5D3AB5DC7.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_ServerSlot_Auto8.uasset'
+[2022.09.05-19.27.04:289][ 35]LogFileHelpers: Auto-saving content packages took 0.389
+[2022.09.05-19.28.11:508][173]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/FPS/UI/DT_Maps.DT_Maps
+[2022.09.05-19.28.27:326][905]LogSlate: Window 'DT_Maps' being destroyed
+[2022.09.05-19.28.27:338][905]LogSlate: Window 'DT_Maps' being destroyed
+[2022.09.05-19.29.21:162][692]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.29.21:777][692]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2022.09.05-19.29.22:507][692]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-19.29.22:511][692]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu17FFEDC94EBFA030614BE78002677D20.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-19.29.22:553][692]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-19.29.22:553][692]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-19.29.24:189][780]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-19.29.24:192][780]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu63326D6241228BE2F877A4A868B120F8.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-19.29.24:233][780]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-19.29.24:233][780]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-19.30.42:507][797]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2022.09.05-19.30.43:060][797]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-19.30.43:063][797]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu79530EC744E9ED00E77DFA913C43994A.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-19.30.43:120][797]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-19.30.43:125][797]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotF101C2B14F9FF30EF3163799A7E3B6CB.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-19.30.43:169][797]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.05-19.30.43:169][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-19.30.43:177][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-19.30.43:200][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9238.723633
+[2022.09.05-19.30.43:475][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.30.43:475][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9238.982422, Update Interval: 343.571289
+[2022.09.05-19.37.18:213][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9633.773438
+[2022.09.05-19.37.18:998][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.37.18:998][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9634.540039, Update Interval: 339.519043
+[2022.09.05-19.39.04:752][671]LogSlate: Took 0.014070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.05-19.40.14:679][774]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2022.09.05-19.40.14:685][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FPS/Maps/MainMenu' took 0.177
+[2022.09.05-19.40.14:687][774]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FPS/UI/Menus/WB_CreateMatchMenu] ([2] browsable assets)...
+[2022.09.05-19.40.14:700][774]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu]
+[2022.09.05-19.40.14:701][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_CreateMatchMenu]
+[2022.09.05-19.40.15:023][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto9
+[2022.09.05-19.40.15:023][774]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu_Auto9F14BBC1B493E771BB70157A84AE72DB6.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto9.uasset'
+[2022.09.05-19.40.15:027][774]LogFileHelpers: Auto-saving content packages took 0.342
+[2022.09.05-19.40.37:283][841]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.40.37:283][841]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.42.03:270][620]LogEditorTransaction: Undo Create Pin Link
+[2022.09.05-19.42.04:374][647]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-19.43.48:530][ 10]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.43.48:653][ 10]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.43.48:923][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2022.09.05-19.43.56:224][335]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.43.57:732][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10033.277344
+[2022.09.05-19.43.57:864][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.43.57:864][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10033.386719, Update Interval: 330.169373
+[2022.09.05-19.44.00:732][536]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.44.11:771][118]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.44.11:887][118]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.44.12:099][118]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2022.09.05-19.44.19:321][506]LogEditorTransaction: Undo Create Pin Link
+[2022.09.05-19.44.19:970][508]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-19.44.20:733][509]LogEditorTransaction: Undo Create Pin Link
+[2022.09.05-19.44.50:893][410]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/FPS/UI/DT_Maps.DT_Maps
+[2022.09.05-19.44.54:140][572]LogSlate: Window 'DT_Maps' being destroyed
+[2022.09.05-19.47.43:361][145]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.47.43:361][145]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.47.51:093][594]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.09.05-19.48.09:339][518]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.09.05-19.49.51:073][925]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.49.51:073][925]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.50.12:081][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10407.675781
+[2022.09.05-19.50.12:699][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.50.12:699][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10408.279297, Update Interval: 331.051971
+[2022.09.05-19.50.53:902][378]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.50.53:902][378]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.51.52:036][907]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-19.51.52:310][907]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2022.09.05-19.51.53:098][923]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-19.51.53:103][923]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot1DBE5534490A235F17CF309A4245EC1B.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-19.51.53:159][923]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-19.51.53:160][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-19.51.55:035][ 15]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.51.55:157][ 15]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.51.55:386][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   8.48ms
+[2022.09.05-19.52.01:219][273]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.01:746][300]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.01:903][308]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.03:359][380]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.08:993][668]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.11:770][808]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.12:411][841]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.52.13:499][889]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.52.13:499][889]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.52.44:703][388]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.52.44:839][388]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.52.45:064][388]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2022.09.05-19.53.18:074][872]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.53.37:215][619]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.53.37:342][619]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.53.37:594][619]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2022.09.05-19.53.53:646][163]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.53.54:455][191]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.53.54:601][196]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.54.44:256][666]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2022.09.05-19.54.44:279][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FPS/Maps/MainMenu' took 0.186
+[2022.09.05-19.54.44:281][666]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FPS/UI/Menus/WB_CreateMatchMenu] ([2] browsable assets)...
+[2022.09.05-19.54.44:294][666]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu]
+[2022.09.05-19.54.44:294][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_CreateMatchMenu]
+[2022.09.05-19.54.44:590][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto0
+[2022.09.05-19.54.44:590][666]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu_Auto012F22D354F580B52A26FE292F99CA2BC.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_CreateMatchMenu_Auto0.uasset'
+[2022.09.05-19.54.44:595][666]LogFileHelpers: Auto-saving content packages took 0.315
+[2022.09.05-19.56.08:676][410]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.56.10:174][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.56.10:174][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.56.13:691][639]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.56.16:658][781]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.56.23:924][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10779.417969
+[2022.09.05-19.56.24:028][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-19.56.24:029][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10779.505859, Update Interval: 331.874146
+[2022.09.05-19.57.15:463][270]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.57.15:463][270]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.57.45:504][714]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.57.45:630][714]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.57.45:904][714]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2022.09.05-19.57.49:205][810]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.57.49:332][810]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.57.49:602][810]LogUObjectHash: Compacting FUObjectHashTables data took   9.02ms
+[2022.09.05-19.57.59:587][169]LogBlueprint: Warning: Unknown type of hyperlinked object (TextBlock_3), cannot focus it
+[2022.09.05-19.58.13:494][917]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.58.13:616][917]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.58.13:889][917]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
+[2022.09.05-19.58.55:594][135]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.685 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-19.59.55:554][171]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-19.59.55:681][171]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-19.59.55:957][171]LogUObjectHash: Compacting FUObjectHashTables data took   8.08ms
+[2022.09.05-20.00.10:443][890]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-20.00.10:571][890]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-20.00.10:855][890]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2022.09.05-20.00.17:127][205]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-20.00.17:262][205]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateMatchMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Match Menu'.
+[2022.09.05-20.00.17:536][205]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2022.09.05-20.00.26:896][756]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.00.27:073][756]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2022.09.05-20.00.28:457][756]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-20.00.29:013][756]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-20.00.29:018][756]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu7E5001C04F01CCFA7DF135850861D499.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-20.00.29:087][757]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-20.00.29:088][757]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-20.01.43:355][743]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.01.43:356][743]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.01.58:202][402]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-20.01.58:613][402]LogUObjectHash: Compacting FUObjectHashTables data took  10.17ms
+[2022.09.05-20.02.17:362][161]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.02.17:545][161]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2022.09.05-20.02.19:725][161]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-20.02.20:260][161]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-20.02.20:264][161]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenuEC13598A41825A2172AFA9AD4DAF7B80.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-20.02.20:353][162]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-20.02.20:353][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-20.02.53:026][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11168.489258
+[2022.09.05-20.02.54:037][601]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.02.54:037][601]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11169.165039, Update Interval: 344.821930
+[2022.09.05-20.03.32:150][713]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.03.32:150][713]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.03.38:862][973]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-20.03.39:317][973]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2022.09.05-20.03.40:430][974]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-20.03.40:433][974]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu53B4EAEB45E2B3E67AFFD6BD8E27EE0C.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-20.03.40:483][974]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-20.03.40:483][974]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-20.03.43:175][ 93]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.03.43:352][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2022.09.05-20.04.45:383][660]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.09.05-20.04.48:771][885]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2022.09.05-20.08.32:836][ 95]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.08.32:836][ 95]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.08.36:237][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.08.36:237][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.09.08:296][926]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.09.08:499][926]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2022.09.05-20.09.09:988][962]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.09.10:162][962]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2022.09.05-20.09.11:300][962]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-20.09.11:581][962]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.09.11:585][962]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot7A738AED4EDF54C098CFDB8A9C61FA91.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.09.11:679][963]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.09.11:679][963]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.09.12:901][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11548.324219
+[2022.09.05-20.09.13:586][ 44]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.09.13:586][ 44]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11548.981445, Update Interval: 357.780701
+[2022.09.05-20.11.43:374][ 85]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.11.43:635][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2022.09.05-20.11.44:857][ 96]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.11.44:860][ 96]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot6327A3CC4EEE83040B3C02A14CD132C8.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.11.44:900][ 96]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.11.44:900][ 96]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.11.56:148][679]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.09.05-20.12.27:417][348]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.12.27:678][348]LogUObjectHash: Compacting FUObjectHashTables data took   9.65ms
+[2022.09.05-20.12.38:712][957]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.12.38:918][957]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2022.09.05-20.12.58:850][184]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.12.59:054][184]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2022.09.05-20.12.59:845][185]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.12.59:848][185]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot4C63998645C0E086DDB510BB285DC294.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.12.59:888][185]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.12.59:888][185]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.13.38:158][887]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.13.38:427][887]LogUObjectHash: Compacting FUObjectHashTables data took   9.44ms
+[2022.09.05-20.13.39:282][890]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.13.39:285][890]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotF0F65D194E8918E2B3F16F85BFEFAE50.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.13.39:326][890]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.13.39:326][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.13.40:160][941]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.13.40:338][941]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2022.09.05-20.15.50:843][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11946.226562
+[2022.09.05-20.15.51:841][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.15.51:842][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11946.892578, Update Interval: 320.715363
+[2022.09.05-20.17.54:679][811]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2022.09.05-20.17.54:685][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FPS/Maps/MainMenu' took 0.173
+[2022.09.05-20.17.54:686][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FPS/UI/Menus/WB_ServerSlot] ([2] browsable assets)...
+[2022.09.05-20.17.54:690][811]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot]
+[2022.09.05-20.17.54:690][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_ServerSlot]
+[2022.09.05-20.17.54:748][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_ServerSlot_Auto1
+[2022.09.05-20.17.54:753][811]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot_Auto12DE89304467BDEEDF3231EB3924348C7.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_ServerSlot_Auto1.uasset'
+[2022.09.05-20.17.54:760][811]LogFileHelpers: Auto-saving content packages took 0.073
+[2022.09.05-20.18.58:004][480]BlueprintLog: New page: Compile WB_JoinServerMenu
+[2022.09.05-20.18.58:283][480]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2022.09.05-20.18.59:410][500]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_JoinServerMenu
+[2022.09.05-20.18.59:415][500]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_JoinServerMenuB8771E974A09CD9BA39D98A824310EC3.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_JoinServerMenu.uasset'
+[2022.09.05-20.18.59:459][500]AssetCheck: New page: Asset Save: WB_JoinServerMenu
+[2022.09.05-20.18.59:459][500]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_JoinServerMenu.WB_JoinServerMenu
+[2022.09.05-20.19.00:164][538]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.19.00:355][538]LogUObjectHash: Compacting FUObjectHashTables data took  12.27ms
+[2022.09.05-20.19.02:011][538]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-20.19.02:306][538]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.19.02:310][538]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotFD0B5F9C48F65641D282FDAB8E48BDD3.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.19.02:401][539]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.19.02:401][539]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.21.49:717][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12305.149414
+[2022.09.05-20.21.49:838][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.21.49:838][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12305.242188, Update Interval: 329.165924
+[2022.09.05-20.21.57:158][552]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.21.57:158][552]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.22.22:156][779]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.22.22:478][779]LogUObjectHash: Compacting FUObjectHashTables data took   9.46ms
+[2022.09.05-20.22.23:801][799]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.22.23:806][799]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot7355340F43CEA04A70C12F83408ABB54.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.22.23:873][799]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.22.23:874][799]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.23.56:012][432]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.23.56:295][432]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2022.09.05-20.23.57:008][439]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.23.57:011][439]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot08CD4BAE45B1C0F1713817A31232CCE2.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.23.57:057][439]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.23.57:057][439]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.25.13:752][412]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.25.14:070][412]LogUObjectHash: Compacting FUObjectHashTables data took   9.68ms
+[2022.09.05-20.25.14:969][433]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.25.14:972][433]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot65F86E7C44E263D579CB188679D61DC4.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.25.15:013][433]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.25.15:013][433]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.25.17:983][622]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.25.18:251][622]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2022.09.05-20.25.19:072][640]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.25.19:075][640]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotB0680E284383AFAE0879BFA9DD04DC40.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.25.19:118][640]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.25.19:119][640]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.25.51:805][259]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.25.51:805][259]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.26.00:030][656]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.26.00:211][656]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2022.09.05-20.28.03:640][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12678.986328
+[2022.09.05-20.28.04:650][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.28.04:650][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12679.659180, Update Interval: 350.467224
+[2022.09.05-20.32.44:897][547]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.09.05-20.33.19:630][286]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.33.19:856][286]LogUObjectHash: Compacting FUObjectHashTables data took  10.25ms
+[2022.09.05-20.33.20:698][287]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.33.20:702][287]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot7A82A56A4D820D6FF0C0BCA021288468.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.33.20:743][287]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.33.20:743][287]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.34.48:384][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13083.778320
+[2022.09.05-20.34.49:387][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.34.49:388][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13084.454102, Update Interval: 353.516052
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Accessed None reading structure Key
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Accessed None reading structure bShift
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Accessed None reading structure bCtrl
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-20.35.55:323][447]LogScript: Warning: Accessed None reading structure bAlt
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-20.35.55:324][447]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-20.35.55:324][447]LogScript: Warning: Accessed None reading structure bCmd
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_2
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-20.35.57:007][543]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateLobbyMenu.WB_CreateLobbyMenu
+[2022.09.05-20.35.57:008][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-20.35.57:017][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-20.35.58:469][543]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.35.58:469][543]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.36.58:640][460]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-20.36.59:085][460]LogUObjectHash: Compacting FUObjectHashTables data took  10.65ms
+[2022.09.05-20.37.00:453][461]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-20.37.00:458][461]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu83F08B744F5F7759EFE3A5BCA4FD9046.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-20.37.00:508][461]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-20.37.00:509][461]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-20.37.01:603][515]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.37.01:802][515]LogUObjectHash: Compacting FUObjectHashTables data took  10.17ms
+[2022.09.05-20.41.11:710][556]BlueprintLog: New page: Compile WB_CreateLobbyMenu
+[2022.09.05-20.41.12:151][556]LogUObjectHash: Compacting FUObjectHashTables data took   8.47ms
+[2022.09.05-20.41.14:000][582]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateLobbyMenu
+[2022.09.05-20.41.14:006][582]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateLobbyMenuBBC2063B467FB1419CBEF086DC734BC5.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateLobbyMenu.uasset'
+[2022.09.05-20.41.14:049][582]AssetCheck: New page: Asset Save: WB_CreateLobbyMenu
+[2022.09.05-20.41.14:049][582]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateLobbyMenu.WB_CreateLobbyMenu
+[2022.09.05-20.41.29:818][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13485.227539
+[2022.09.05-20.41.30:092][274]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.41.30:092][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13485.478516, Update Interval: 338.823212
+[2022.09.05-20.41.43:850][378]BlueprintLog: New page: Compile WB_CreateLobbyMenu
+[2022.09.05-20.41.43:971][378]LogBlueprint: Error: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\UI\Menus\WB_CreateLobbyMenu.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:TextDelegate ' on Widget ' TextBlock_3 ': Binding: 'None' : 'None' was not found on 'WB Create Lobby Menu'.
+[2022.09.05-20.41.44:263][378]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2022.09.05-20.41.50:636][547]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.41.50:636][547]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-20.42.00:883][127]BlueprintLog: New page: Compile WB_CreateLobbyMenu
+[2022.09.05-20.42.01:301][127]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2022.09.05-20.42.02:434][147]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateLobbyMenu
+[2022.09.05-20.42.02:438][147]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateLobbyMenu13183209470EDE3569B0E29996B643E9.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateLobbyMenu.uasset'
+[2022.09.05-20.42.02:486][147]AssetCheck: New page: Asset Save: WB_CreateLobbyMenu
+[2022.09.05-20.42.02:487][147]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateLobbyMenu.WB_CreateLobbyMenu
+[2022.09.05-20.42.16:076][884]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.42.16:317][884]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2022.09.05-20.42.18:748][884]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-20.42.19:422][884]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-20.42.19:425][884]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenuAC96DCEA4CE3F6AEDD2402BED474CB8B.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-20.42.19:524][885]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-20.42.19:524][885]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-20.44.43:244][735]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-20.44.43:244][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-20.44.43:283][735]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-20.44.43:283][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-20.46.10:861][527]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.46.11:185][527]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2022.09.05-20.46.11:884][529]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.46.11:888][529]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot1AC5F46D4956D5CC7D6306B7E9D4DA86.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.46.11:932][529]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.46.11:933][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.46.55:620][118]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.46.55:902][118]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2022.09.05-20.46.56:659][125]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.46.56:665][125]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot2805C5E741C15E301F1FD592B86048D1.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.46.56:710][125]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.46.56:710][125]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.46.57:297][162]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.46.57:485][162]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2022.09.05-20.47.41:161][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13856.562500
+[2022.09.05-20.47.42:158][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.47.42:159][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13857.226562, Update Interval: 330.216980
+[2022.09.05-20.51.05:604][134]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-20.51.06:020][134]LogUObjectHash: Compacting FUObjectHashTables data took  11.79ms
+[2022.09.05-20.52.15:305][ 90]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-20.52.15:310][ 90]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenu70A1EAF744554C532C282DAFE7CBF909.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-20.52.15:365][ 90]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-20.52.15:365][ 90]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-20.52.17:032][169]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2022.09.05-20.52.17:353][169]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.52.17:358][169]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotB04129594FA94D35467948985AF55CD4.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.52.17:400][169]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.52.17:400][169]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.54.02:733][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14238.077148
+[2022.09.05-20.54.03:731][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-20.54.03:732][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14238.742188, Update Interval: 309.869690
+[2022.09.05-20.55.28:446][228]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-20.55.28:764][228]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2022.09.05-20.55.30:499][304]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-20.55.30:503][304]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot3F8637EA453C94FDACD3398AC3FBDC91.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-20.55.30:548][304]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-20.55.30:548][304]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-20.56.27:651][862]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-20.56.27:835][862]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2022.09.05-20.56.45:867][681]LogSlate: Window 'Output Log' being destroyed
+[2022.09.05-20.58.59:405][184]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.316 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-21.00.12:489][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14607.852539
+[2022.09.05-21.00.13:491][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-21.00.13:491][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14608.522461, Update Interval: 322.317566
+[2022.09.05-21.01.27:541][  1]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-21.01.27:714][  1]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2022.09.05-21.01.30:679][155]LogSlate: Window 'Device Output Log' being destroyed
+[2022.09.05-21.01.30:698][155]LogSlate: Window 'Device Output Log' being destroyed
+[2022.09.05-21.01.52:215][125]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-21.01.52:215][125]LogScript: Warning: Accessed None reading structure Key
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-21.01.52:215][125]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-21.01.52:216][125]LogScript: Warning: Accessed None reading structure bShift
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-21.01.52:216][125]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-21.01.52:216][125]LogScript: Warning: Accessed None reading structure bCtrl
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-21.01.52:216][125]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-21.01.52:216][125]LogScript: Warning: Accessed None reading structure bAlt
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-21.01.52:216][125]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-21.01.52:217][125]LogScript: Warning: Accessed None reading structure bCmd
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-21.01.52:248][126]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-21.01.52:248][126]LogScript: Warning: Accessed None reading structure Key
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-21.01.52:248][126]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-21.01.52:248][126]LogScript: Warning: Accessed None reading structure bShift
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-21.01.52:248][126]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-21.01.52:248][126]LogScript: Warning: Accessed None reading structure bCtrl
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_3
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-21.02.04:727][693]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.05-21.02.06:744][693]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-21.02.06:758][693]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-21.02.09:011][694]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/ronni/OneDrive/Documents/GitHub/New_Template'
+[2022.09.05-21.05.56:130][  4]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.05-21.06.01:908][282]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-21.06.02:502][282]LogUObjectHash: Compacting FUObjectHashTables data took  10.66ms
+[2022.09.05-21.06.03:238][283]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-21.06.03:240][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.03:742][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.04:243][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.04:744][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.05:245][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.05:746][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.06:248][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.06:748][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.07:249][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.07:751][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.08:253][283]LogFileManager: Error: Error moving file '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotEA474AC94DA31027F037C0858D0F36CB.tmp'.
+[2022.09.05-21.06.08:253][283]LogSavePackage: Warning: Failed to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to temp directory
+[2022.09.05-21.06.08:253][283]LogSavePackage: Error: Error saving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.06.15:721][283]LogSlate: Window 'Message' being destroyed
+[2022.09.05-21.06.15:732][283]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/FPS/UI/Menus/WB_ServerSlot' (WB_ServerSlot.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.09.05-21.06.15:813][283]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-21.06.15:814][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.16:315][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.16:816][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.17:317][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.17:818][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.18:318][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.18:820][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.19:321][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.19:822][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.20:322][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.20:823][283]LogFileManager: Error: Error moving file '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot37BA08F7408E3CBC4D5F1C977C9BAE39.tmp'.
+[2022.09.05-21.06.20:823][283]LogSavePackage: Warning: Failed to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to temp directory
+[2022.09.05-21.06.20:823][283]LogSavePackage: Error: Error saving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.06.21:846][283]LogSlate: Window 'Message' being destroyed
+[2022.09.05-21.06.21:856][283]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/FPS/UI/Menus/WB_ServerSlot' (WB_ServerSlot.uasset) cannot be saved as the package is locked because you are in play on PC mode.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.09.05-21.06.21:923][283]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-21.06.21:924][283]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot09C328554B84E733410C23BAAF00D0CB.tmp' (Error Code 32), retrying in .5s...
+[2022.09.05-21.06.22:428][283]LogFileManager: Warning: MoveFile recovered during retry!
+[2022.09.05-21.06.22:428][283]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotC182ABE64F20674B1E96BD9F6DF24A30.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.06.22:445][283]EditorErrors: New page: Save Output
+[2022.09.05-21.06.22:447][283]EditorErrors: Warning: Error saving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.06.22:447][283]EditorErrors: Warning: Error saving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.06.22:529][283]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-21.06.22:529][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-21.06.22:590][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14977.983398
+[2022.09.05-21.06.22:723][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-21.06.22:723][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14978.095703, Update Interval: 347.815796
+[2022.09.05-21.06.24:523][383]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-21.06.24:523][383]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-21.06.27:064][477]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-21.06.27:079][477]LogSlate: Window 'Message Log' being destroyed
+[2022.09.05-21.06.51:165][662]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-21.06.51:596][662]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2022.09.05-21.06.52:524][664]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-21.06.52:527][664]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot24F644534D473DF1EA2311B3B7B7F293.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.06.52:583][664]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-21.06.52:583][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-21.06.54:910][769]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-21.06.55:095][769]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2022.09.05-21.10.06:570][853]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-21.10.06:823][853]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2022.09.05-21.10.07:955][865]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-21.10.07:959][865]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotC1C12CE44D160148D2C571886C58FB41.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.10.08:010][865]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-21.10.08:010][865]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-21.10.08:503][890]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-21.10.08:689][890]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2022.09.05-21.13.08:614][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15383.989258
+[2022.09.05-21.13.09:630][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-21.13.09:630][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15384.667969, Update Interval: 338.713348
+[2022.09.05-21.14.06:227][175]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-21.14.06:478][175]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2022.09.05-21.14.07:354][176]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-21.14.07:357][176]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlotB9B8F4BF49C8F592D4022AB0EC7EA4B2.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-21.14.07:397][176]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-21.14.07:397][176]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-21.14.38:475][627]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-21.14.38:475][627]LogScript: Warning: Accessed None reading structure Key
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-21.14.38:475][627]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-21.14.38:475][627]LogScript: Warning: Accessed None reading structure bShift
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-21.14.38:475][627]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-21.14.38:476][627]LogScript: Warning: Accessed None reading structure bCtrl
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-21.14.38:476][627]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-21.14.38:476][627]LogScript: Warning: Accessed None reading structure bAlt
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-21.14.38:476][627]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-21.14.38:476][627]LogScript: Warning: Accessed None reading structure bCmd
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_4
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-21.14.41:536][807]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/FPS/UI/DT_Maps.DT_Maps
+[2022.09.05-21.14.50:898][520]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-21.14.51:325][520]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2022.09.05-21.14.53:257][567]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-21.14.53:419][567]LogUObjectHash: Compacting FUObjectHashTables data took  10.29ms
+[2022.09.05-21.14.54:886][567]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-21.14.55:445][567]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-21.14.55:450][567]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenuA5F069EF4C37C379FB08F6B9F2CD4D51.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-21.14.55:551][568]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-21.14.55:552][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-21.18.18:111][407]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-21.18.18:523][407]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2022.09.05-21.18.36:453][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/GameModes/GameInstance/BP_GameInstance.BP_GameInstance
+[2022.09.05-21.18.36:457][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-21.19.46:345][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15781.815430
+[2022.09.05-21.19.46:455][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-21.19.46:455][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15781.909180, Update Interval: 331.665405
+[2022.09.05-21.21.23:764][992]LogEditorTransaction: Undo Create Pin Link
+[2022.09.05-21.21.24:850][ 17]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-21.21.40:538][895]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-21.23.52:336][283]LogEditorTransaction: Undo Add Node
+[2022.09.05-21.26.02:657][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16158.109375
+[2022.09.05-21.26.02:819][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-21.26.02:819][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16158.257812, Update Interval: 301.127960
+[2022.09.05-21.26.20:882][113]BlueprintLog: New page: Compile WB_JoinServerMenu
+[2022.09.05-21.26.21:173][113]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2022.09.05-21.26.23:192][180]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_JoinServerMenu
+[2022.09.05-21.26.23:197][180]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_JoinServerMenuDAD7AC0449E1AB62E1ADF98889993954.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_JoinServerMenu.uasset'
+[2022.09.05-21.26.23:241][180]AssetCheck: New page: Asset Save: WB_JoinServerMenu
+[2022.09.05-21.26.23:241][180]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_JoinServerMenu.WB_JoinServerMenu
+[2022.09.05-21.26.43:224][340]BlueprintLog: New page: Compile WB_CreateMatchMenu
+[2022.09.05-21.26.43:673][340]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2022.09.05-21.26.46:107][410]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-21.26.46:299][410]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2022.09.05-21.26.47:069][410]LogSlate: Window 'Save Content' being destroyed
+[2022.09.05-21.26.47:642][410]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_CreateMatchMenu
+[2022.09.05-21.26.47:647][410]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_CreateMatchMenuFB8A37864478ACA1E771919A1DDC7319.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_CreateMatchMenu.uasset'
+[2022.09.05-21.26.47:753][411]AssetCheck: New page: Asset Save: WB_CreateMatchMenu
+[2022.09.05-21.26.47:754][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-21.31.35:737][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16491.169922
+[2022.09.05-21.31.36:741][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-21.31.36:741][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16491.837891, Update Interval: 313.127228
+[2022.09.05-21.34.38:929][199]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
