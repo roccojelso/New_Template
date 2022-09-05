@@ -1941,3 +1941,79 @@ Make sure 'WB_JoinServerMenu_C' has been compiled for  Get JoinServer
 [2022.09.05-18.41.54:704][938]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot719410BE49FEB52B76A871BF24727FA7.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
 [2022.09.05-18.41.54:738][938]AssetCheck: New page: Asset Save: WB_ServerSlot
 [2022.09.05-18.41.54:739][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-18.42.59:563][723]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UFindSessionsCallbackProxy::GetCurrentPlayers' [Element not found.]
+[2022.09.05-18.44.27:150][105]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.09.05-18.44.28:430][197]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-18.44.28:590][197]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2022.09.05-18.47.08:203][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6623.737793
+[2022.09.05-18.47.09:204][215]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-18.47.09:204][215]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6624.404785, Update Interval: 340.370483
+[2022.09.05-18.48.22:228][432]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FPS/UI/Menus/WB_MainMenu.WB_MainMenu
+[2022.09.05-18.48.22:229][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-18.48.22:238][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-18.48.23:681][432]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.48.23:682][432]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.48.42:353][479]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.48.42:353][479]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.49.24:906][339]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.49.24:906][339]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.50.27:474][950]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.50.27:474][950]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.51.58:000][369]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.09.05-18.52.19:141][942]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_MainMenu
+[2022.09.05-18.52.19:146][942]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_MainMenu8DE5CCF44BC95FECECC21692158F54B0.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_MainMenu.uasset'
+[2022.09.05-18.52.19:187][942]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.09.05-18.52.19:187][942]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_MainMenu.WB_MainMenu
+[2022.09.05-18.53.29:334][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7004.872559
+[2022.09.05-18.53.30:344][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-18.53.30:344][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7005.537598, Update Interval: 331.280853
+[2022.09.05-18.53.42:105][639]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-18.53.42:290][639]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2022.09.05-18.55.23:704][215]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.55.23:704][215]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.55.28:697][404]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/UMG': No such file or directory
+[2022.09.05-18.56.22:886][709]LogEditorTransaction: Undo Add In Parameter
+[2022.09.05-18.56.42:192][875]LogSlate: Took 0.012102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.05-18.58.12:248][939]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-18.58.12:560][941]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-18.58.14:434][ 71]LogEditorTransaction: Undo Delete current selection
+[2022.09.05-18.58.55:988][298]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.083 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.05-18.59.11:243][425]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.59.11:243][425]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.59.38:794][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7374.349609
+[2022.09.05-18.59.38:905][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-18.59.38:905][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7374.449219, Update Interval: 347.738892
+[2022.09.05-18.59.49:779][932]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-18.59.49:779][932]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.05-19.00.02:611][483]BlueprintLog: New page: Compile WB_MainMenu
+[2022.09.05-19.00.03:133][483]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2022.09.05-19.00.04:163][487]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_MainMenu
+[2022.09.05-19.00.04:168][487]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_MainMenuD9C542044C92FF41B1862793602CAE89.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_MainMenu.uasset'
+[2022.09.05-19.00.04:206][487]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.09.05-19.00.04:206][487]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_MainMenu.WB_MainMenu
+[2022.09.05-19.01.03:135][304]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_MainMenu
+[2022.09.05-19.01.03:138][304]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_MainMenuE6E765A146C5C6D8FE0AEE99EB82AFBA.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_MainMenu.uasset'
+[2022.09.05-19.01.03:182][304]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.09.05-19.01.03:182][304]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_MainMenu.WB_MainMenu
+[2022.09.05-19.01.04:323][371]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-19.01.04:503][371]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2022.09.05-19.01.34:871][129]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2022.09.05-19.01.34:875][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FPS/Maps/MainMenu' took 0.176
+[2022.09.05-19.01.34:876][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/UI/Menus/WB_MainMenu] ([2] browsable assets)...
+[2022.09.05-19.01.34:877][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/UI/Menus/WB_MainMenu]
+[2022.09.05-19.01.34:983][129]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/UI/Menus/WB_MainMenu_Auto6
+[2022.09.05-19.01.34:983][129]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_MainMenu_Auto6E0F63B5B4D5C0E0F87B1CEAF6B926814.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Autosaves/Game/FPS/UI/Menus/WB_MainMenu_Auto6.uasset'
+[2022.09.05-19.01.34:987][129]LogFileHelpers: Auto-saving content packages took 0.112
+[2022.09.05-19.03.10:553][  2]LogEditorTransaction: Undo Move Node
+[2022.09.05-19.03.11:571][ 47]LogEditorTransaction: Undo Create Reroute Node
+[2022.09.05-19.03.19:770][592]BlueprintLog: New page: Compile WB_MainMenu
+[2022.09.05-19.03.20:154][592]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2022.09.05-19.03.20:872][593]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_MainMenu
+[2022.09.05-19.03.20:876][593]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_MainMenuDA71CD0840D7FAD09816528480AEC68E.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_MainMenu.uasset'
+[2022.09.05-19.03.20:914][593]AssetCheck: New page: Asset Save: WB_MainMenu
+[2022.09.05-19.03.20:914][593]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_MainMenu.WB_MainMenu
+[2022.09.05-19.03.22:973][713]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-19.03.23:144][713]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2022.09.05-19.04.53:414][522]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.05-19.04.53:619][522]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2022.09.05-19.05.58:511][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
