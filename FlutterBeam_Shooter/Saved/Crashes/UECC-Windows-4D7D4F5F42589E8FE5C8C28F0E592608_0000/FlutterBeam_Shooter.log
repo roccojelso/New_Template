@@ -1,0 +1,1367 @@
+﻿Log file open, 09/05/22 12:56:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14256)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FlutterBeam_Shooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\FlutterBeam_Shooter.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 1600 Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ffe5b2444512f8c5e1b3f9b96194bec9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.705428
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4D7D4F5F42589E8FE5C8C28F0E592608
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.16 seconds
+LogConfig: Display: Loading IOS ini files took 0.18 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.19 seconds
+LogConfig: Display: Loading Mac ini files took 0.21 seconds
+LogConfig: Display: Loading TVOS ini files took 0.23 seconds
+LogConfig: Display: Loading Unix ini files took 0.24 seconds
+LogConfig: Display: Loading Linux ini files took 0.27 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.29 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.14 seconds
+LogConfig: Display: Loading Windows ini files took 0.19 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogWindows: Failed to load '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+LogWindows: File '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogEOSSDK: Initializing EOSSDK Version:1.14.2-20976885
+LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-09-05T16:56:44.387Z
+LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza78919FE122oqE6I2JtH1JjxantnF, ProductId=4c567cd42dac4ac69fe73e1a86ad3e25, SandboxId=e955a090b186455f986502e1a1c59c20, DeploymentId=8780c7e6e9c14b9bba995d78ba1469d2, ProductName=FlutterBeam_Shooter, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+LogEOSSDK: LogEOSRTC: LibRTCCore: Initializing LibRTC...
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: EOS
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.05-16.56.44:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.05-16.56.44:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.05-16.56.44:659][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.05-16.56.44:659][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.05-16.56.44:660][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.05-16.56.44:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.05-16.56.44:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.05-16.56.44:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.05-16.56.44:668][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.05-16.56.44:669][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.05-16.56.44:729][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.09.05-16.56.44:733][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.05-16.56.44:734][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.09.05-16.56.44:734][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.05-16.56.44:734][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.09.05-16.56.44:734][  0]LogD3D11RHI:     AdapterLuid : 0 48499
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_1)
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     Revision    : 0000
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.09.05-16.56.44:997][  0]LogD3D11RHI:     AdapterLuid : 0 51618
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.09.05-16.56.45:002][  0]LogD3D11RHI:     AdapterLuid : 0 48499
+[2022.09.05-16.56.45:002][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.05-16.56.45:002][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.05-16.56.45:002][  0]LogHAL: Display: Platform has ~ 16 GB [17129910272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.05-16.56.45:002][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.05-16.56.45:002][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.05-16.56.45:002][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.05-16.56.45:004][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.05-16.56.45:004][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.05-16.56.45:004][  0]LogInit: Computer: GAMEDEVBATTLEST
+[2022.09.05-16.56.45:004][  0]LogInit: User: ronni
+[2022.09.05-16.56.45:004][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.09.05-16.56.45:004][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.05-16.56.45:004][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.09.05-16.56.45:004][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.05-16.56.45:004][  0]LogMemory: Process Physical Memory: 278.17 MB used, 284.41 MB peak
+[2022.09.05-16.56.45:004][  0]LogMemory: Process Virtual Memory: 230.59 MB used, 230.59 MB peak
+[2022.09.05-16.56.45:004][  0]LogMemory: Physical Memory: 8205.23 MB used,  8131.12 MB free, 16336.36 MB total
+[2022.09.05-16.56.45:004][  0]LogMemory: Virtual Memory: 11102.62 MB used,  15985.73 MB free, 27088.36 MB total
+[2022.09.05-16.56.45:004][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.05-16.56.45:017][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.05-16.56.45:056][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.05-16.56.45:059][  0]LogInit: Using OS detected language (en-US).
+[2022.09.05-16.56.45:059][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.05-16.56.45:089][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.05-16.56.45:527][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.05-16.56.45:551][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.05-16.56.45:551][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.05-16.56.45:551][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.05-16.56.45:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.05-16.56.45:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.05-16.56.46:028][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.05-16.56.46:028][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.05-16.56.46:028][  0]LogWindows: Attached monitors:
+[2022.09.05-16.56.46:028][  0]LogWindows:     resolution: 1600x900, work area: (1920, 0) -> (3520, 900), device: '\\.\DISPLAY1'
+[2022.09.05-16.56.46:028][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.09.05-16.56.46:028][  0]LogWindows: Found 2 attached monitors.
+[2022.09.05-16.56.46:028][  0]LogWindows: EnumDisplayDevices:
+[2022.09.05-16.56.46:029][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.09.05-16.56.46:029][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.09.05-16.56.46:030][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.05-16.56.46:030][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.09.05-16.56.46:031][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.09.05-16.56.46:031][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.09.05-16.56.46:031][  0]LogD3D11RHI:     AdapterLuid : 0 48499
+[2022.09.05-16.56.46:219][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.05-16.56.46:219][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.05-16.56.46:219][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.09.05-16.56.46:220][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.09.05-16.56.46:320][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.05-16.56.46:391][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.09.05-16.56.46:408][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/FlutterBeam_Shooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/FlutterBeam_Shooter.uproject"  -platform=all'
+[2022.09.05-16.56.46:408][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/FlutterBeam_Shooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/FlutterBeam_Shooter.uproject"  -platform=all" ]
+[2022.09.05-16.56.46:478][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.05-16.56.46:499][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.05-16.56.46:499][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.05-16.56.46:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.05-16.56.46:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.05-16.56.46:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.05-16.56.46:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.05-16.56.46:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.05-16.56.46:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.05-16.56.46:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.05-16.56.46:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.05-16.56.46:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.05-16.56.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.05-16.56.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.05-16.56.46:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.05-16.56.46:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.05-16.56.46:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.05-16.56.46:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.05-16.56.46:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.05-16.56.46:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.05-16.56.46:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.05-16.56.46:633][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.05-16.56.46:653][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.05-16.56.46:661][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.05-16.56.46:661][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.05-16.56.46:661][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.05-16.56.46:661][  0]LogTargetPlatformManager:   PCM
+[2022.09.05-16.56.46:668][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.05-16.56.46:668][  0]LogTargetPlatformManager:   BINKA
+[2022.09.05-16.56.46:669][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.05-16.56.46:669][  0]LogTargetPlatformManager:   OGG
+[2022.09.05-16.56.46:669][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.05-16.56.46:669][  0]LogTargetPlatformManager:   OPUS
+[2022.09.05-16.56.46:774][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.05-16.56.46:789][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.05-16.56.46:797][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.05-16.56.46:798][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.05-16.56.46:798][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.05-16.56.46:799][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.05-16.56.46:799][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.05-16.56.46:800][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.05-16.56.46:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.05-16.56.46:805][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.05-16.56.46:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.05-16.56.46:806][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.05-16.56.46:864][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.05-16.56.46:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.05-16.56.46:864][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.05-16.56.46:894][  0]LogDerivedDataCache: Speed tests for C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.09.05-16.56.46:894][  0]LogDerivedDataCache: Display: Performance to C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=99.68MBs, RandomWriteSpeed=51.04MBs. Assigned SpeedClass 'Local'
+[2022.09.05-16.56.46:895][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.05-16.56.46:896][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.05-16.56.46:896][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.05-16.56.46:925][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.05-16.56.46:925][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.05-16.56.46:926][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Intermediate/Shaders/WorkingDirectory/16048/).
+[2022.09.05-16.56.46:927][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ronni/AppData/Local/Temp/UnrealShaderWorkingDir/F456025545F423831B621D8951311E00/'.
+[2022.09.05-16.56.46:927][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.05-16.56.46:927][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.09.05-16.56.51:233][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.05-16.56.51:233][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.05-16.56.51:234][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.05-16.56.51:337][  0]LogAssetRegistry: FAssetRegistry took 0.0491 seconds to start up
+[2022.09.05-16.56.51:352][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.05-16.56.51:915][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.05-16.56.51:917][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.05-16.56.53:234][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.05-16.56.53:234][  0]LogDeviceProfileManager: Active device profile: [0000056D34412140][0000056D12725000 50] WindowsEditor
+[2022.09.05-16.56.53:234][  0]LogDeviceProfileManager: Profiles: [0000056D34411C00][0000056D2402C800 50] Windows, [0000056D34412140][0000056D12725000 50] WindowsEditor, [0000056D34412680][0000056D24FC0000 50] WindowsServer, [0000056D344124C0][0000056D343F0000 50] WindowsClient, [0000056D34411F80][0000056D343F5000 50] IOS, [0000056D34410700][0000056D343F7800 50] iPadAir2, [0000056D34414EC0][0000056D343FC800 50] IPadPro, [0000056D34415240][0000056D343FA000 50] iPadAir3, [0000056D34414980][0000056D24FC2800 50] iPadAir4, [0000056D34411880][0000056D34420000 50] iPadMini4, [0000056D34411500][0000056D34425000 50] iPadMini5, [0000056D34415400][0000056D34427800 50] iPadMini6, [0000056D34417E00][0000056D343F2800 50] iPhone6S, [0000056D34418180][0000056D3442C800 50] iPhone7, [0000056D34418500][0000056D3442A000 50] iPodTouch7, [0000056D34413800][0000056D34430000 50] iPhone6SPlus, [0000056D34414D00][0000056D34435000 50] iPhone7Plus, [0000056D344139C0][0000056D34437800 50] iPhoneSE, [0000056D34415CC0][0000056D3443A000 50] iPhone8, [0000056D344163C0][0000056D3443C800 50] iPhone8Plus, [0000056D344108C0][0000056D34422800 50] iPhoneX, [0000056D344147C0][0000056D34440000 50] iPhoneXS, [0000056D34415E80][0000056D34445000 50] iPhoneXSMax, [0000056D34412D80][0000056D34447800 50] iPhoneXR, [0000056D34412840][0000056D3444A000 50] iPhone11, [0000056D34416900][0000056D3444C800 50] iPhone11Pro, [0000056D34414600][0000056D34432800 50] iPhone11ProMax, [0000056D34412BC0][0000056D34450000 50] iPhoneSE2, [0000056D34417540][0000056D34455000 50] iPhone12Mini, [0000056D34411180][0000056D34457800 50] iPhone12, [0000056D34416580][0000056D3445A000 50] iPhone12Pro, [0000056D34412300][0000056D3445C800 50] iPhone12ProMax, [0000056D34410C40][0000056D34442800 50] iPhone13Mini, [0000056D344186C0][0000056D34460000 50] iPhone13, [0000056D34416200][0000056D34465000 50] iPhone13Pro, [0000056D34410540][0000056D34467800 50] iPhone13ProMax, [0000056D34413480][0000056D3446A000 50] iPadPro105, [0000056D34410000][0000056D3446C800 50] iPadPro129, [0000056D34413D40][0000056D34452800 50] iPadPro97, [0000056D34414440][0000056D34470000 50] iPadPro2_129, [0000056D344132C0][0000056D34475000 50] iPad5, [0000056D344178C0][0000056D34477800 50] iPad6, [0000056D34414280][0000056D3447A000 50] iPad7, [0000056D344171C0][0000056D3447C800 50] iPad8, [0000056D344140C0][0000056D34462800 50] iPad9, [0000056D34416AC0][0000056D34480000 50] iPadPro11, [0000056D34418880][0000056D34485000 50] iPadPro2_11, [0000056D34416C80][0000056D34487800 50] iPadPro3_11, [0000056D34418A40][0000056D3448A000 50] iPadPro3_129, [0000056D34417FC0][0000056D3448C800 50] iPadPro4_129, [0000056D34415080][0000056D34472800 50] iPadPro5_129, [0000056D344116C0][0000056D34490000 50] AppleTV, [0000056D34410380][0000056D34495000 50] AppleTV4K, [0000056D34415780][0000056D34497800 50] TVOS, [0000056D3441A2C0][0000056D3449C800 50] Mac, [0000056D3441A640][0000056D3449A000 50] MacEditor, [0000056D344194C0][0000056D34482800 50] MacClient, [0000056D34416740][0000056D344A0000 50] MacServer, [0000056D3441A800][0000056D344A7800 50] Linux, [0000056D3441A100][0000056D344A5000 50] LinuxEditor, [0000056D34413100][0000056D344AA000 50] LinuxArm64Editor, [0000056D34419BC0][0000056D344AC800 50] LinuxArm64, [0000056D34411340][0000056D34492800 50] LinuxClient, [0000056D344155C0][0000056D344B0000 50] LinuxArm64Client, [0000056D34415B00][0000056D344B5000 50] LinuxServer, [0000056D34417C40][0000056D344B7800 50] LinuxArm64Server, [0000056D34410E00][0000056D344BA000 50] Android, [0000056D34419140][0000056D344BC800 50] Android_Preview_OpenGL, [0000056D34411A40][0000056D344A2800 50] Android_Preview_Vulkan, [0000056D34410A80][0000056D344C0000 50] Android_Low, [0000056D34412A00][0000056D344C5000 50] Android_Mid, [0000056D34414B40][0000056D344C7800 50] Android_High, [0000056D3441A480][0000056D344CA000 50] Android_Default, [0000056D34418DC0][0000056D344CC800 50] Android_Adreno4xx, [0000056D34418340][0000056D344B2800 50] Android_Adreno5xx_Low, [0000056D344101C0][0000056D344D0000 50] Android_Adreno5xx, [0000056D34417700][0000056D344D5000 50] Android_Adreno6xx, [0000056D34418F80][0000056D344D7800 50] Android_Adreno6xx_Vulkan, [0000056D34410FC0][0000056D344DA000 50] Android_Adreno7xx, [0000056D34418C00][0000056D344DC800 50] Android_Adreno7xx_Vulkan, [0000056D3441A9C0][0000056D344C2800 50] Android_Mali_T6xx, [0000056D34413F00][0000056D344E0000 50] Android_Mali_T7xx, [0000056D34417380][0000056D344E5000 50] Android_Mali_T8xx, [0000056D3441AB80][0000056D344E7800 50] Android_Mali_G71, [0000056D34417A80][0000056D344EA000 50] Android_Mali_G72, [0000056D34419300][0000056D344EC800 50] Android_Mali_G72_Vulkan, [0000056D34413B80][0000056D344D2800 50] Android_Mali_G76, [0000056D34419F40][0000056D344F0000 50] Android_Mali_G76_Vulkan, [0000056D3441B0C0][0000056D344F5000 50] Android_Mali_G77, [0000056D34416E40][0000056D344F7800 50] Android_Mali_G77_Vulkan, [0000056D34419D80][0000056D344FA000 50] Android_Mali_G78, [0000056D3441B980][0000056D344FC800 50] Android_Mali_G78_Vulkan, [0000056D3441B7C0][0000056D344E2800 50] Android_Mali_G710, [0000056D34419680][0000056D34500000 50] Android_Mali_G710_Vulkan, [0000056D34419840][0000056D34505000 50] Android_Xclipse_920, [0000056D3441AF00][0000056D34507800 50] Android_Xclipse_920_Vulkan, [0000056D3441AD40][0000056D3450A000 50] Android_Vulkan_SM5, [0000056D34413640][0000056D3450C800 50] Android_PowerVR_G6xxx, [0000056D34415940][0000056D344F2800 50] Android_PowerVR_GT7xxx, [0000056D34412F40][0000056D34510000 50] Android_PowerVR_GE8xxx, [0000056D3441BEC0][0000056D34515000 50] Android_PowerVR_GM9xxx, [0000056D34419A00][0000056D34517800 50] Android_PowerVR_GM9xxx_Vulkan, [0000056D34417000][0000056D3451A000 50] Android_TegraK1, [0000056D3441C5C0][0000056D3451C800 50] Android_Unknown_Vulkan, [0000056D3441CE80][0000056D34502800 50] Oculus_Quest, [0000056D3441D3C0][0000056D34520000 50] Oculus_Quest2, [0000056D3441D900][0000056D34525000 50] HoloLens, 
+[2022.09.05-16.56.53:234][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.05-16.56.53:242][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.09.05-16.56.53:242][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.09.05-16.56.53:242][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.05-16.56.53:242][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.09.05-16.56.53:242][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.09.05-16.56.53:306][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.05-16.56.53:835][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.05-16.56.53:835][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.05-16.56.53:835][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.05-16.56.53:835][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.05-16.56.53:835][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.05-16.56.53:880][  0]LogNetVersion: FlutterBeam_Shooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4282419673)
+[2022.09.05-16.56.54:262][  0]LogSlate: Border
+[2022.09.05-16.56.54:262][  0]LogSlate: BreadcrumbButton
+[2022.09.05-16.56.54:262][  0]LogSlate: Default
+[2022.09.05-16.56.54:262][  0]LogSlate: Icons.Save
+[2022.09.05-16.56.54:262][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.05-16.56.54:262][  0]LogSlate: ListView
+[2022.09.05-16.56.54:262][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.05-16.56.54:262][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.05-16.56.54:262][  0]LogSlate: TableView.DarkRow
+[2022.09.05-16.56.54:262][  0]LogSlate: TableView.Row
+[2022.09.05-16.56.54:262][  0]LogSlate: TreeView
+[2022.09.05-16.56.54:780][  0]SourceControl: Source control is disabled
+[2022.09.05-16.56.54:868][  0]SourceControl: Source control is disabled
+[2022.09.05-16.56.54:868][  0]SourceControl: Source control is disabled
+[2022.09.05-16.56.55:228][  0]LogUObjectArray: 20572 objects as part of root set at end of initial load.
+[2022.09.05-16.56.55:228][  0]LogUObjectAllocator: 5608512 out of 0 bytes used by permanent object pool.
+[2022.09.05-16.56.55:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.05-16.56.56:231][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B31A30974B3D8E5E8ED557B156C71724 | Instance: FEB55D1A47904B25C6AD5A865202ED48 (GAMEDEVBATTLEST-16048).
+[2022.09.05-16.56.56:319][  0]LogPython: Using Python 3.9.7
+[2022.09.05-16.56.58:763][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.05-16.56.58:780][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.05-16.56.58:990][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.09.05-16.56.59:060][  0]LogSteamShared: Steam SDK Loaded!
+[2022.09.05-16.57.00:767][  0]LogUProjectInfo: Found projects:
+[2022.09.05-16.57.01:345][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.05-16.57.01:988][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.05-16.57.02:092][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.05-16.57.02:093][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.05-16.57.02:379][  0]LogCollectionManager: Loaded 0 collections in 0.006691 seconds
+[2022.09.05-16.57.02:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/Collections/' took 0.00s
+[2022.09.05-16.57.02:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/Developers/ronni/Collections/' took 0.00s
+[2022.09.05-16.57.02:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/Collections/' took 0.00s
+[2022.09.05-16.57.03:596][  0]LogEngine: Initializing Engine...
+[2022.09.05-16.57.03:629][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.05-16.57.04:482][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.05-16.57.04:483][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.05-16.57.04:506][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-16.57.04:571][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.05-16.57.04:573][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.05-16.57.04:632][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.05-16.57.04:651][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.05-16.57.04:652][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.05-16.57.04:652][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.05-16.57.04:652][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.05-16.57.04:652][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.05-16.57.04:656][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.05-16.57.04:656][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.05-16.57.04:656][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.05-16.57.04:683][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.05-16.57.04:769][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.09.05-16.57.04:769][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.05-16.57.04:776][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.05-16.57.04:776][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.05-16.57.04:777][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.05-16.57.04:777][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.05-16.57.04:781][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.05-16.57.04:781][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.05-16.57.04:781][  0]LogInit: FAudioDevice initialized.
+[2022.09.05-16.57.04:781][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.05-16.57.04:781][  0]LogNetVersion: Set ProjectVersion to 4.1.0.0. Version Checksum will be recalculated on next use.
+[2022.09.05-16.57.04:782][  0]LogInit: Texture streaming: Enabled
+[2022.09.05-16.57.04:867][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.05-16.57.04:891][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.05-16.57.04:952][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.05-16.57.04:973][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.05-16.57.04:973][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.05-16.57.10:234][  0]LogLiveCoding: Display: First instance in process group "UE_FlutterBeam_Shooter_0x205a3954", spawning console
+[2022.09.05-16.57.10:234][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.05-16.57.10:234][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.05-16.57.10:411][  0]LogInit: Transaction tracking system initialized
+[2022.09.05-16.57.10:666][  0]BlueprintLog: New page: Editor Load
+[2022.09.05-16.57.11:301][  0]LocalizationService: Localization service is disabled
+[2022.09.05-16.57.11:470][  0]TimingProfiler: Initialize
+[2022.09.05-16.57.11:471][  0]TimingProfiler: OnSessionChanged
+[2022.09.05-16.57.11:471][  0]LoadingProfiler: Initialize
+[2022.09.05-16.57.11:471][  0]LoadingProfiler: OnSessionChanged
+[2022.09.05-16.57.11:471][  0]NetworkingProfiler: Initialize
+[2022.09.05-16.57.11:471][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.05-16.57.11:471][  0]MemoryProfiler: Initialize
+[2022.09.05-16.57.11:471][  0]MemoryProfiler: OnSessionChanged
+[2022.09.05-16.57.11:669][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_9'
+[2022.09.05-16.57.11:670][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_9
+[2022.09.05-16.57.13:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/' took 0.10s
+[2022.09.05-16.57.13:644][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.05-16.57.13:869][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.05-16.57.13:876][  0]LogUnrealEdMisc: Loading editor; pre map load, took 34.683
+[2022.09.05-16.57.13:876][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.05-16.57.13:878][  0]LightingResults: New page: Lighting Build
+[2022.09.05-16.57.13:896][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.05-16.57.13:896][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.05-16.57.13:896][  0]MapCheck: New page: Map Check
+[2022.09.05-16.57.13:897][  0]LightingResults: New page: Lighting Build
+[2022.09.05-16.57.13:917][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.05-16.57.13:925][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.09.05-16.57.33:038][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove01...
+[2022.09.05-16.57.33:038][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove01.SW_FoleyBody_BodyMove01 will be modified from 80 to 80.
+[2022.09.05-16.57.33:047][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 49184 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove01.SW_FoleyBody_BodyMove01.
+[2022.09.05-16.57.33:047][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove01.SW_FoleyBody_BodyMove01: 262144
+[2022.09.05-16.57.33:050][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove02...
+[2022.09.05-16.57.33:050][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove02.SW_FoleyBody_BodyMove02 will be modified from 80 to 80.
+[2022.09.05-16.57.33:064][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 54554 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove02.SW_FoleyBody_BodyMove02.
+[2022.09.05-16.57.33:064][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove02.SW_FoleyBody_BodyMove02: 262144
+[2022.09.05-16.57.33:067][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove03...
+[2022.09.05-16.57.33:067][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove03.SW_FoleyBody_BodyMove03 will be modified from 80 to 80.
+[2022.09.05-16.57.33:084][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 58816 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove03.SW_FoleyBody_BodyMove03.
+[2022.09.05-16.57.33:085][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove03.SW_FoleyBody_BodyMove03: 262144
+[2022.09.05-16.57.33:088][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove04...
+[2022.09.05-16.57.33:088][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove04.SW_FoleyBody_BodyMove04 will be modified from 80 to 80.
+[2022.09.05-16.57.33:105][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 57210 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove04.SW_FoleyBody_BodyMove04.
+[2022.09.05-16.57.33:105][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove04.SW_FoleyBody_BodyMove04: 262144
+[2022.09.05-16.57.33:110][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_Land02...
+[2022.09.05-16.57.33:111][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land02.SW_FoleyBody_Land02 will be modified from 80 to 80.
+[2022.09.05-16.57.33:136][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 99246 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land02.SW_FoleyBody_Land02.
+[2022.09.05-16.57.33:136][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land02.SW_FoleyBody_Land02: 262144
+[2022.09.05-16.57.33:138][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_Land03...
+[2022.09.05-16.57.33:139][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land03.SW_FoleyBody_Land03 will be modified from 80 to 80.
+[2022.09.05-16.57.33:164][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 103734 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land03.SW_FoleyBody_Land03.
+[2022.09.05-16.57.33:165][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land03.SW_FoleyBody_Land03: 262144
+[2022.09.05-16.57.33:167][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_Land04...
+[2022.09.05-16.57.33:168][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land04.SW_FoleyBody_Land04 will be modified from 80 to 80.
+[2022.09.05-16.57.33:196][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 106800 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land04.SW_FoleyBody_Land04.
+[2022.09.05-16.57.33:196][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land04.SW_FoleyBody_Land04: 262144
+[2022.09.05-16.57.33:202][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_Land05...
+[2022.09.05-16.57.33:203][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land05.SW_FoleyBody_Land05 will be modified from 80 to 80.
+[2022.09.05-16.57.33:230][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101206 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land05.SW_FoleyBody_Land05.
+[2022.09.05-16.57.33:230][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_Land05.SW_FoleyBody_Land05: 262144
+[2022.09.05-16.57.33:235][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove01_Stereo...
+[2022.09.05-16.57.33:236][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove01_Stereo.SW_FoleyBody_BodyMove01_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:261][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 98368 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove01_Stereo.SW_FoleyBody_BodyMove01_Stereo.
+[2022.09.05-16.57.33:261][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove01_Stereo.SW_FoleyBody_BodyMove01_Stereo: 262144
+[2022.09.05-16.57.33:264][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove02_Stereo...
+[2022.09.05-16.57.33:264][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove02_Stereo.SW_FoleyBody_BodyMove02_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:295][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 109108 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove02_Stereo.SW_FoleyBody_BodyMove02_Stereo.
+[2022.09.05-16.57.33:296][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove02_Stereo.SW_FoleyBody_BodyMove02_Stereo: 262144
+[2022.09.05-16.57.33:299][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove03_Stereo...
+[2022.09.05-16.57.33:299][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove03_Stereo.SW_FoleyBody_BodyMove03_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:332][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117632 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove03_Stereo.SW_FoleyBody_BodyMove03_Stereo.
+[2022.09.05-16.57.33:332][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove03_Stereo.SW_FoleyBody_BodyMove03_Stereo: 262144
+[2022.09.05-16.57.33:336][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyBody_BodyMove04_Stereo...
+[2022.09.05-16.57.33:337][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove04_Stereo.SW_FoleyBody_BodyMove04_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:369][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 114420 while cooking SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove04_Stereo.SW_FoleyBody_BodyMove04_Stereo.
+[2022.09.05-16.57.33:369][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyBodyMoves/Wav/SW_FoleyBody_BodyMove04_Stereo.SW_FoleyBody_BodyMove04_Stereo: 262144
+[2022.09.05-16.57.33:394][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic01_Stereo...
+[2022.09.05-16.57.33:395][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic01_Stereo.SW_Footstep_Generic01_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:420][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 100144 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic01_Stereo.SW_Footstep_Generic01_Stereo.
+[2022.09.05-16.57.33:420][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic01_Stereo.SW_Footstep_Generic01_Stereo: 262144
+[2022.09.05-16.57.33:424][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic02_Stereo...
+[2022.09.05-16.57.33:424][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic02_Stereo.SW_Footstep_Generic02_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:450][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85000 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic02_Stereo.SW_Footstep_Generic02_Stereo.
+[2022.09.05-16.57.33:450][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic02_Stereo.SW_Footstep_Generic02_Stereo: 262144
+[2022.09.05-16.57.33:455][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic03_Stereo...
+[2022.09.05-16.57.33:455][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic03_Stereo.SW_Footstep_Generic03_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:481][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 87676 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic03_Stereo.SW_Footstep_Generic03_Stereo.
+[2022.09.05-16.57.33:481][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic03_Stereo.SW_Footstep_Generic03_Stereo: 262144
+[2022.09.05-16.57.33:484][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic04_Stereo...
+[2022.09.05-16.57.33:484][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic04_Stereo.SW_Footstep_Generic04_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:513][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 71808 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic04_Stereo.SW_Footstep_Generic04_Stereo.
+[2022.09.05-16.57.33:513][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic04_Stereo.SW_Footstep_Generic04_Stereo: 262144
+[2022.09.05-16.57.33:517][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic05_Stereo...
+[2022.09.05-16.57.33:518][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic05_Stereo.SW_Footstep_Generic05_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:547][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 95500 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic05_Stereo.SW_Footstep_Generic05_Stereo.
+[2022.09.05-16.57.33:547][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic05_Stereo.SW_Footstep_Generic05_Stereo: 262144
+[2022.09.05-16.57.33:551][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic06_Stereo...
+[2022.09.05-16.57.33:552][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic06_Stereo.SW_Footstep_Generic06_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:580][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 96692 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic06_Stereo.SW_Footstep_Generic06_Stereo.
+[2022.09.05-16.57.33:580][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic06_Stereo.SW_Footstep_Generic06_Stereo: 262144
+[2022.09.05-16.57.33:587][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic07_Stereo...
+[2022.09.05-16.57.33:588][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic07_Stereo.SW_Footstep_Generic07_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:614][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85448 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic07_Stereo.SW_Footstep_Generic07_Stereo.
+[2022.09.05-16.57.33:614][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic07_Stereo.SW_Footstep_Generic07_Stereo: 262144
+[2022.09.05-16.57.33:618][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic08_Stereo...
+[2022.09.05-16.57.33:618][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic08_Stereo.SW_Footstep_Generic08_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:649][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101696 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic08_Stereo.SW_Footstep_Generic08_Stereo.
+[2022.09.05-16.57.33:649][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic08_Stereo.SW_Footstep_Generic08_Stereo: 262144
+[2022.09.05-16.57.33:653][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic09_Stereo...
+[2022.09.05-16.57.33:654][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic09_Stereo.SW_Footstep_Generic09_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:678][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82560 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic09_Stereo.SW_Footstep_Generic09_Stereo.
+[2022.09.05-16.57.33:679][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic09_Stereo.SW_Footstep_Generic09_Stereo: 262144
+[2022.09.05-16.57.33:682][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic10_Stereo...
+[2022.09.05-16.57.33:683][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic10_Stereo.SW_Footstep_Generic10_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:710][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 102624 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic10_Stereo.SW_Footstep_Generic10_Stereo.
+[2022.09.05-16.57.33:711][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic10_Stereo.SW_Footstep_Generic10_Stereo: 262144
+[2022.09.05-16.57.33:713][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic11_Stereo...
+[2022.09.05-16.57.33:714][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic11_Stereo.SW_Footstep_Generic11_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:740][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 82620 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic11_Stereo.SW_Footstep_Generic11_Stereo.
+[2022.09.05-16.57.33:740][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic11_Stereo.SW_Footstep_Generic11_Stereo: 262144
+[2022.09.05-16.57.33:744][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Footstep_Generic12_Stereo...
+[2022.09.05-16.57.33:744][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic12_Stereo.SW_Footstep_Generic12_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.33:770][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 101052 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic12_Stereo.SW_Footstep_Generic12_Stereo.
+[2022.09.05-16.57.33:771][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/SW_Footstep_Generic12_Stereo.SW_Footstep_Generic12_Stereo: 262144
+[2022.09.05-16.57.33:781][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_01...
+[2022.09.05-16.57.33:782][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_01.sw_FS_Metal_01 will be modified from 40 to 40.
+[2022.09.05-16.57.33:795][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_01.sw_FS_Metal_01.
+[2022.09.05-16.57.33:796][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_01.sw_FS_Metal_01: 262144
+[2022.09.05-16.57.33:799][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_02...
+[2022.09.05-16.57.33:799][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_02.sw_FS_Metal_02 will be modified from 40 to 40.
+[2022.09.05-16.57.33:810][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_02.sw_FS_Metal_02.
+[2022.09.05-16.57.33:811][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_02.sw_FS_Metal_02: 262144
+[2022.09.05-16.57.33:814][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_03...
+[2022.09.05-16.57.33:815][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_03.sw_FS_Metal_03 will be modified from 40 to 40.
+[2022.09.05-16.57.33:829][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_03.sw_FS_Metal_03.
+[2022.09.05-16.57.33:829][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_03.sw_FS_Metal_03: 262144
+[2022.09.05-16.57.33:832][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_04...
+[2022.09.05-16.57.33:832][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_04.sw_FS_Metal_04 will be modified from 40 to 40.
+[2022.09.05-16.57.33:843][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_04.sw_FS_Metal_04.
+[2022.09.05-16.57.33:844][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_04.sw_FS_Metal_04: 262144
+[2022.09.05-16.57.33:846][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_05...
+[2022.09.05-16.57.33:847][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_05.sw_FS_Metal_05 will be modified from 40 to 40.
+[2022.09.05-16.57.33:858][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_05.sw_FS_Metal_05.
+[2022.09.05-16.57.33:858][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_05.sw_FS_Metal_05: 262144
+[2022.09.05-16.57.33:860][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_06...
+[2022.09.05-16.57.33:861][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_06.sw_FS_Metal_06 will be modified from 40 to 40.
+[2022.09.05-16.57.33:872][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_06.sw_FS_Metal_06.
+[2022.09.05-16.57.33:872][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_06.sw_FS_Metal_06: 262144
+[2022.09.05-16.57.33:875][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_07...
+[2022.09.05-16.57.33:875][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_07.sw_FS_Metal_07 will be modified from 40 to 40.
+[2022.09.05-16.57.33:887][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_07.sw_FS_Metal_07.
+[2022.09.05-16.57.33:887][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_07.sw_FS_Metal_07: 262144
+[2022.09.05-16.57.33:890][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_08...
+[2022.09.05-16.57.33:890][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_08.sw_FS_Metal_08 will be modified from 40 to 40.
+[2022.09.05-16.57.33:902][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_08.sw_FS_Metal_08.
+[2022.09.05-16.57.33:903][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_08.sw_FS_Metal_08: 262144
+[2022.09.05-16.57.33:905][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_09...
+[2022.09.05-16.57.33:906][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_09.sw_FS_Metal_09 will be modified from 40 to 40.
+[2022.09.05-16.57.33:917][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_09.sw_FS_Metal_09.
+[2022.09.05-16.57.33:917][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_09.sw_FS_Metal_09: 262144
+[2022.09.05-16.57.33:920][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Metal_10...
+[2022.09.05-16.57.33:920][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_10.sw_FS_Metal_10 will be modified from 40 to 40.
+[2022.09.05-16.57.33:931][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51200 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_10.sw_FS_Metal_10.
+[2022.09.05-16.57.33:932][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Metal_10.sw_FS_Metal_10: 262144
+[2022.09.05-16.57.33:937][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_01...
+[2022.09.05-16.57.33:937][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_01.sw_FS_Tile_01 will be modified from 40 to 40.
+[2022.09.05-16.57.33:947][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 31618 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_01.sw_FS_Tile_01.
+[2022.09.05-16.57.33:947][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_01.sw_FS_Tile_01: 262144
+[2022.09.05-16.57.33:951][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_02...
+[2022.09.05-16.57.33:952][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_02.sw_FS_Tile_02 will be modified from 40 to 40.
+[2022.09.05-16.57.33:961][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 33344 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_02.sw_FS_Tile_02.
+[2022.09.05-16.57.33:961][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_02.sw_FS_Tile_02: 262144
+[2022.09.05-16.57.33:963][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_03...
+[2022.09.05-16.57.33:964][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_03.sw_FS_Tile_03 will be modified from 40 to 40.
+[2022.09.05-16.57.33:970][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 23686 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_03.sw_FS_Tile_03.
+[2022.09.05-16.57.33:971][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_03.sw_FS_Tile_03: 262144
+[2022.09.05-16.57.33:973][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_04...
+[2022.09.05-16.57.33:974][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_04.sw_FS_Tile_04 will be modified from 40 to 40.
+[2022.09.05-16.57.33:981][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 23956 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_04.sw_FS_Tile_04.
+[2022.09.05-16.57.33:981][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_04.sw_FS_Tile_04: 262144
+[2022.09.05-16.57.33:983][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_05...
+[2022.09.05-16.57.33:984][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_05.sw_FS_Tile_05 will be modified from 40 to 40.
+[2022.09.05-16.57.33:992][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 28796 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_05.sw_FS_Tile_05.
+[2022.09.05-16.57.33:992][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_05.sw_FS_Tile_05: 262144
+[2022.09.05-16.57.33:995][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_06...
+[2022.09.05-16.57.33:995][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_06.sw_FS_Tile_06 will be modified from 40 to 40.
+[2022.09.05-16.57.34:002][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 26442 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_06.sw_FS_Tile_06.
+[2022.09.05-16.57.34:003][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_06.sw_FS_Tile_06: 262144
+[2022.09.05-16.57.34:005][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_07...
+[2022.09.05-16.57.34:005][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_07.sw_FS_Tile_07 will be modified from 40 to 40.
+[2022.09.05-16.57.34:013][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 28576 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_07.sw_FS_Tile_07.
+[2022.09.05-16.57.34:014][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_07.sw_FS_Tile_07: 262144
+[2022.09.05-16.57.34:055][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_08...
+[2022.09.05-16.57.34:055][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_08.sw_FS_Tile_08 will be modified from 40 to 40.
+[2022.09.05-16.57.34:060][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27638 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_08.sw_FS_Tile_08.
+[2022.09.05-16.57.34:060][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_08.sw_FS_Tile_08: 262144
+[2022.09.05-16.57.34:063][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_09...
+[2022.09.05-16.57.34:063][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_09.sw_FS_Tile_09 will be modified from 40 to 40.
+[2022.09.05-16.57.34:071][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 28880 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_09.sw_FS_Tile_09.
+[2022.09.05-16.57.34:072][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_09.sw_FS_Tile_09: 262144
+[2022.09.05-16.57.34:074][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave sw_FS_Tile_10...
+[2022.09.05-16.57.34:075][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_10.sw_FS_Tile_10 will be modified from 40 to 40.
+[2022.09.05-16.57.34:082][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 30450 while cooking SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_10.sw_FS_Tile_10.
+[2022.09.05-16.57.34:082][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Footsteps/Wav/sw_FS_Tile_10.sw_FS_Tile_10: 262144
+[2022.09.05-16.57.34:217][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Explosion_with_Metal_Debris...
+[2022.09.05-16.57.34:217][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Explosions/Wav/SW_Explosion_with_Metal_Debris.SW_Explosion_with_Metal_Debris will be modified from 40 to 40.
+[2022.09.05-16.57.34:280][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 276704 while cooking SoundWave /Game/FPS/Sound/Explosions/Wav/SW_Explosion_with_Metal_Debris.SW_Explosion_with_Metal_Debris.
+[2022.09.05-16.57.34:280][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Explosions/Wav/SW_Explosion_with_Metal_Debris.SW_Explosion_with_Metal_Debris: 262144
+[2022.09.05-16.57.34:302][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_AssaultRifle_01Mono...
+[2022.09.05-16.57.34:303][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_01Mono.SW_AssaultRifle_01Mono will be modified from 80 to 80.
+[2022.09.05-16.57.34:320][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 69908 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_01Mono.SW_AssaultRifle_01Mono.
+[2022.09.05-16.57.34:321][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_01Mono.SW_AssaultRifle_01Mono: 262144
+[2022.09.05-16.57.34:323][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_AssaultRifle_Mono...
+[2022.09.05-16.57.34:324][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_Mono.SW_AssaultRifle_Mono will be modified from 80 to 80.
+[2022.09.05-16.57.34:344][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 80556 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_Mono.SW_AssaultRifle_Mono.
+[2022.09.05-16.57.34:344][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_Mono.SW_AssaultRifle_Mono: 262144
+[2022.09.05-16.57.34:346][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_AssaultRifle_Reload03M...
+[2022.09.05-16.57.34:347][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_Reload03M.SW_AssaultRifle_Reload03M will be modified from 80 to 80.
+[2022.09.05-16.57.34:365][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 70598 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_Reload03M.SW_AssaultRifle_Reload03M.
+[2022.09.05-16.57.34:365][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_AssaultRifle_Reload03M.SW_AssaultRifle_Reload03M: 262144
+[2022.09.05-16.57.34:429][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact01_Stereo...
+[2022.09.05-16.57.34:429][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact01_Stereo.SW_FoleyFlesh_Impact01_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.34:483][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 221352 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact01_Stereo.SW_FoleyFlesh_Impact01_Stereo.
+[2022.09.05-16.57.34:484][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact01_Stereo.SW_FoleyFlesh_Impact01_Stereo: 262144
+[2022.09.05-16.57.34:486][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact02...
+[2022.09.05-16.57.34:487][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact02.SW_FoleyFlesh_Impact02 will be modified from 80 to 80.
+[2022.09.05-16.57.34:520][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 127488 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact02.SW_FoleyFlesh_Impact02.
+[2022.09.05-16.57.34:520][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact02.SW_FoleyFlesh_Impact02: 262144
+[2022.09.05-16.57.34:523][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact02_Stereo...
+[2022.09.05-16.57.34:524][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact02_Stereo.SW_FoleyFlesh_Impact02_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.34:585][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_MannequinArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.34:585][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 254976 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact02_Stereo.SW_FoleyFlesh_Impact02_Stereo.
+[2022.09.05-16.57.34:585][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact02_Stereo.SW_FoleyFlesh_Impact02_Stereo: 262144
+[2022.09.05-16.57.34:588][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact03...
+[2022.09.05-16.57.34:589][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact03.SW_FoleyFlesh_Impact03 will be modified from 80 to 80.
+[2022.09.05-16.57.34:615][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 97610 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact03.SW_FoleyFlesh_Impact03.
+[2022.09.05-16.57.34:615][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact03.SW_FoleyFlesh_Impact03: 262144
+[2022.09.05-16.57.34:618][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact03_Stereo...
+[2022.09.05-16.57.34:618][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact03_Stereo.SW_FoleyFlesh_Impact03_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.34:666][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 195220 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact03_Stereo.SW_FoleyFlesh_Impact03_Stereo.
+[2022.09.05-16.57.34:666][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact03_Stereo.SW_FoleyFlesh_Impact03_Stereo: 262144
+[2022.09.05-16.57.34:669][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact04...
+[2022.09.05-16.57.34:669][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact04.SW_FoleyFlesh_Impact04 will be modified from 80 to 80.
+[2022.09.05-16.57.34:704][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 136068 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact04.SW_FoleyFlesh_Impact04.
+[2022.09.05-16.57.34:704][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact04.SW_FoleyFlesh_Impact04: 262144
+[2022.09.05-16.57.34:707][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact04_Stereo...
+[2022.09.05-16.57.34:708][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact04_Stereo.SW_FoleyFlesh_Impact04_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.34:777][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 272136 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact04_Stereo.SW_FoleyFlesh_Impact04_Stereo.
+[2022.09.05-16.57.34:777][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact04_Stereo.SW_FoleyFlesh_Impact04_Stereo: 262144
+[2022.09.05-16.57.34:780][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact05...
+[2022.09.05-16.57.34:781][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact05.SW_FoleyFlesh_Impact05 will be modified from 80 to 80.
+[2022.09.05-16.57.34:817][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 123552 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact05.SW_FoleyFlesh_Impact05.
+[2022.09.05-16.57.34:817][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact05.SW_FoleyFlesh_Impact05: 262144
+[2022.09.05-16.57.34:823][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact05_Stereo...
+[2022.09.05-16.57.34:823][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact05_Stereo.SW_FoleyFlesh_Impact05_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.34:891][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 247104 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact05_Stereo.SW_FoleyFlesh_Impact05_Stereo.
+[2022.09.05-16.57.34:891][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact05_Stereo.SW_FoleyFlesh_Impact05_Stereo: 262144
+[2022.09.05-16.57.34:894][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact06...
+[2022.09.05-16.57.34:895][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact06.SW_FoleyFlesh_Impact06 will be modified from 80 to 80.
+[2022.09.05-16.57.34:923][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 94248 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact06.SW_FoleyFlesh_Impact06.
+[2022.09.05-16.57.34:924][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact06.SW_FoleyFlesh_Impact06: 262144
+[2022.09.05-16.57.34:927][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact06_Stereo...
+[2022.09.05-16.57.34:927][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact06_Stereo.SW_FoleyFlesh_Impact06_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.34:979][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 188496 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact06_Stereo.SW_FoleyFlesh_Impact06_Stereo.
+[2022.09.05-16.57.34:979][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact06_Stereo.SW_FoleyFlesh_Impact06_Stereo: 262144
+[2022.09.05-16.57.34:981][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact07...
+[2022.09.05-16.57.34:982][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact07.SW_FoleyFlesh_Impact07 will be modified from 80 to 80.
+[2022.09.05-16.57.35:013][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 112560 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact07.SW_FoleyFlesh_Impact07.
+[2022.09.05-16.57.35:013][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact07.SW_FoleyFlesh_Impact07: 262144
+[2022.09.05-16.57.35:055][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_MannequinArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.35:056][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_MannequinArms/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.35:056][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact07_Stereo...
+[2022.09.05-16.57.35:056][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact07_Stereo.SW_FoleyFlesh_Impact07_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.35:114][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_MannequinArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.35:114][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 225120 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact07_Stereo.SW_FoleyFlesh_Impact07_Stereo.
+[2022.09.05-16.57.35:114][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact07_Stereo.SW_FoleyFlesh_Impact07_Stereo: 262144
+[2022.09.05-16.57.35:117][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact08...
+[2022.09.05-16.57.35:117][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact08.SW_FoleyFlesh_Impact08 will be modified from 80 to 80.
+[2022.09.05-16.57.35:144][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 97088 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact08.SW_FoleyFlesh_Impact08.
+[2022.09.05-16.57.35:145][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact08.SW_FoleyFlesh_Impact08: 262144
+[2022.09.05-16.57.35:147][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_FoleyFlesh_Impact08_Stereo...
+[2022.09.05-16.57.35:148][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact08_Stereo.SW_FoleyFlesh_Impact08_Stereo will be modified from 80 to 80.
+[2022.09.05-16.57.35:206][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 194176 while cooking SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact08_Stereo.SW_FoleyFlesh_Impact08_Stereo.
+[2022.09.05-16.57.35:206][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/FoleyFlesh/Wav/SW_FoleyFlesh_Impact08_Stereo.SW_FoleyFlesh_Impact08_Stereo: 262144
+[2022.09.05-16.57.35:213][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_Empty01...
+[2022.09.05-16.57.35:213][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty01.SW_Weapon_AssaultRifle_Empty01 will be modified from 80 to 80.
+[2022.09.05-16.57.35:225][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 43832 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty01.SW_Weapon_AssaultRifle_Empty01.
+[2022.09.05-16.57.35:225][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty01.SW_Weapon_AssaultRifle_Empty01: 262144
+[2022.09.05-16.57.35:227][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_Empty02...
+[2022.09.05-16.57.35:228][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty02.SW_Weapon_AssaultRifle_Empty02 will be modified from 80 to 80.
+[2022.09.05-16.57.35:245][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 52694 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty02.SW_Weapon_AssaultRifle_Empty02.
+[2022.09.05-16.57.35:246][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty02.SW_Weapon_AssaultRifle_Empty02: 262144
+[2022.09.05-16.57.35:249][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_Empty03...
+[2022.09.05-16.57.35:249][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty03.SW_Weapon_AssaultRifle_Empty03 will be modified from 80 to 80.
+[2022.09.05-16.57.35:262][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 51968 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty03.SW_Weapon_AssaultRifle_Empty03.
+[2022.09.05-16.57.35:263][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_Empty03.SW_Weapon_AssaultRifle_Empty03: 262144
+[2022.09.05-16.57.35:266][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_01...
+[2022.09.05-16.57.35:267][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_01.SW_Weapon_AssaultRifle_01 will be modified from 80 to 80.
+[2022.09.05-16.57.35:299][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 127046 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_01.SW_Weapon_AssaultRifle_01.
+[2022.09.05-16.57.35:299][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_01.SW_Weapon_AssaultRifle_01: 262144
+[2022.09.05-16.57.35:302][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_2...
+[2022.09.05-16.57.35:302][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_2.SW_Weapon_AssaultRifle_2 will be modified from 80 to 80.
+[2022.09.05-16.57.35:334][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 128374 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_2.SW_Weapon_AssaultRifle_2.
+[2022.09.05-16.57.35:335][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_2.SW_Weapon_AssaultRifle_2: 262144
+[2022.09.05-16.57.35:337][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_3...
+[2022.09.05-16.57.35:338][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_3.SW_Weapon_AssaultRifle_3 will be modified from 80 to 80.
+[2022.09.05-16.57.35:373][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 142274 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_3.SW_Weapon_AssaultRifle_3.
+[2022.09.05-16.57.35:373][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_3.SW_Weapon_AssaultRifle_3: 262144
+[2022.09.05-16.57.35:376][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_4...
+[2022.09.05-16.57.35:376][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_4.SW_Weapon_AssaultRifle_4 will be modified from 80 to 80.
+[2022.09.05-16.57.35:407][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_AllyIcon.T_AllyIcon (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.35:407][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 121172 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_4.SW_Weapon_AssaultRifle_4.
+[2022.09.05-16.57.35:407][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_4.SW_Weapon_AssaultRifle_4: 262144
+[2022.09.05-16.57.35:411][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_5...
+[2022.09.05-16.57.35:412][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_5.SW_Weapon_AssaultRifle_5 will be modified from 80 to 80.
+[2022.09.05-16.57.35:448][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 110172 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_5.SW_Weapon_AssaultRifle_5.
+[2022.09.05-16.57.35:448][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_5.SW_Weapon_AssaultRifle_5: 262144
+[2022.09.05-16.57.35:454][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Weapon_AssaultRifle_6...
+[2022.09.05-16.57.35:454][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_6.SW_Weapon_AssaultRifle_6 will be modified from 80 to 80.
+[2022.09.05-16.57.35:488][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 120698 while cooking SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_6.SW_Weapon_AssaultRifle_6.
+[2022.09.05-16.57.35:488][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/Weapons/Wav/SW_Weapon_AssaultRifle_6.SW_Weapon_AssaultRifle_6: 262144
+[2022.09.05-16.57.36:232][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Skull_Icon_2.T_Skull_Icon_2 (TFO_AutoDXT, 200X200 X1X1) (Required Memory Estimate: 0.762939 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.36:232][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Claymore.T_Claymore (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.36:232][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Dot_Icon.T_Dot_Icon (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.36:232][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_FragGrenadeIcon.T_FragGrenadeIcon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.36:232][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Hit...
+[2022.09.05-16.57.36:232][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/FPS/Sound/HitMarker/SW_Hit.SW_Hit will be modified from 40 to 40.
+[2022.09.05-16.57.36:235][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4336 while cooking SoundWave /Game/FPS/Sound/HitMarker/SW_Hit.SW_Hit.
+[2022.09.05-16.57.36:235][  0]LogAudio: Display: Chunk size for SoundWave /Game/FPS/Sound/HitMarker/SW_Hit.SW_Hit: 262144
+[2022.09.05-16.57.37:031][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/MenuPoses/A_Menu_Pose1.A_Menu_Pose1
+[2022.09.05-16.57.37:031][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_CrossHairGrenade.T_CrossHairGrenade (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/Explosion/T_Explosion_SubUV.T_Explosion_SubUV (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/T_bullet_hole_2.T_bullet_hole_2 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_MannequinArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/BloodImpact/T_clouds_dust_detail_01.T_clouds_dust_detail_01 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/BloodImpact/T_BloodSplatter_Frames01.T_BloodSplatter_Frames01 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/BloodImpact/T_BloodSplat_03_SubUV.T_BloodSplat_03_SubUV (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/BloodImpact/P_blood_splash_02.P_blood_splash_02:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:032][  0]LogMaterial: Display: Missing cached shadermap for M_Burst in PCD3D_SM5, Default, SM5 (DDC key hash: 39BD5615AC825DC0FE58EA23EFD431339566EFB8), compiling. 
+[2022.09.05-16.57.37:547][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2022.09.05-16.57.37:547][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/GenericImpact/T_Flare_02.T_Flare_02 (BGRA8, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:547][  0]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/FPS/Characters/UE4_MannequinArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2022.09.05-16.57.37:547][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/GenericImpact/P_RifleImpact.P_RifleImpact:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:547][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/LensFlare/T_Lensflare_01.T_Lensflare_01 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:547][  0]LogMaterial: Display: Missing cached shadermap for M_explosion_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: B99695D3811C2EE8DB4E76B2F644C14D1E0A757F), compiling. 
+[2022.09.05-16.57.37:806][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/Weapon/T_muzzle_flashes.T_muzzle_flashes (TFO_AutoDXT, 128X256 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:806][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/Smoke/T_Clouds_01.T_Clouds_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.37:806][  0]LogMaterial: Display: Missing cached shadermap for M_radial_ramp in PCD3D_SM5, Default, SM5 (DDC key hash: 763D23C977025AFEB1AB623E0584EC688657B1BC), compiling. 
+[2022.09.05-16.57.38:049][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/GenericImpact/T_SparkCore_2X2.T_SparkCore_2X2 (BGRA8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:049][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/Smoke/T_SmokeBall_01_8_8.T_SmokeBall_01_8_8 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:050][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/Mask/T_SquareMaskTightEdge.T_SquareMaskTightEdge (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:050][  0]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: D0EB01F8368432004E23028DB40D0452D0AC81FD), compiling. 
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/WeaponEffects/Muzzle/P_AssaultRifle_MF.P_AssaultRifle_MF:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_AssaultIcon.T_AssaultIcon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_MedicIcon.T_MedicIcon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Fade.T_Fade (TFO_AutoDXT, 500X500 X1X1) (Required Memory Estimate: 4.768372 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_GrenadePerk.T_GrenadePerk (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_AssaultRifle.T_AssaultRifle (BGRA8, 480X270 X1X1) (Required Memory Estimate: 2.471924 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_Pistol_2_Icon.T_Pistol_2_Icon (BGRA8, 225X224 X1X1) (Required Memory Estimate: 0.961304 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_SupportIcon.T_SupportIcon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_TeamAlphaIcon.T_TeamAlphaIcon (BGRA8, 900X714 X1X1) (Required Memory Estimate: 12.256622 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_AmmoPerk.T_AmmoPerk (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_ObjectiveIcon.T_ObjectiveIcon (TFO_AutoDXT, 500X500 X1X1) (Required Memory Estimate: 4.768372 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_HeadshotIcon.T_HeadshotIcon (BGRA8, 250X250 X1X1) (Required Memory Estimate: 1.192093 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:720][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/LowLatency_Warning.LowLatency_Warning (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:721][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_DamageIndicator_01.T_DamageIndicator_01 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:721][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/LowLatencySevere.LowLatencySevere (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:721][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Compass_Marker.T_Compass_Marker (BGRA8, 32X33 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:721][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Crouch_Icon.T_Crouch_Icon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:721][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Compass_01.T_Compass_01 (BGRA8, 3600X62 X1X1) (Required Memory Estimate: 4.257202 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.38:721][  0]LogMaterial: Display: Missing cached shadermap for M_WeaponBase in PCD3D_SM5, Default, SM5 (DDC key hash: BBEFCC3E336E495C02CA488603D83C2EE7DE067F), compiling. 
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_GearIcon.T_GearIcon (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_HitMarker_02.T_HitMarker_02 (TFO_AutoDXT, 56X56 X1X1) (Required Memory Estimate: 0.059814 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Standing_Icon.T_Standing_Icon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Skull_Icon.T_Skull_Icon (BGRA8, 240X150 X1X1) (Required Memory Estimate: 0.686646 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Arrow.T_Arrow (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_MachineGun.T_MachineGun (BGRA8, 480X270 X1X1) (Required Memory Estimate: 2.471924 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_MeleeIcon.T_MeleeIcon (TFO_AutoDXT, 500X500 X1X1) (Required Memory Estimate: 4.768372 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Pistol_1.T_Pistol_1 (BGRA8, 225X224 X1X1) (Required Memory Estimate: 0.961304 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_Shotgun.T_Shotgun (BGRA8, 480X270 X1X1) (Required Memory Estimate: 2.471924 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_SMG.T_SMG (BGRA8, 480X270 X1X1) (Required Memory Estimate: 2.471924 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_Knife_Icon.T_Knife_Icon (TFO_AutoDXT, 224X224 X1X1) (Required Memory Estimate: 0.957031 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:136][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_SniperRifle.T_SniperRifle (BGRA8, 480X270 X1X1) (Required Memory Estimate: 2.471924 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:137][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_SniperScope_01.T_SniperScope_01 (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:137][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_HealthPerkIcon.T_HealthPerkIcon (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:137][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_SpeedPerk.T_SpeedPerk (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:137][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/WeaponIcons/T_Pistol_2.T_Pistol_2 (TFO_AutoDXT, 224X224 X1X1) (Required Memory Estimate: 0.957031 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:137][  0]LogStaticMesh: Display: Building static mesh SM_Claymore...
+[2022.09.05-16.57.39:137][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Claymore/A_TPP_Claymore.A_TPP_Claymore
+[2022.09.05-16.57.39:137][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Walk.A_FPP_SMG_Walk
+[2022.09.05-16.57.39:137][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Run.A_FPP_SMG_Run
+[2022.09.05-16.57.39:137][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_TeamBeta.T_TeamBeta (BGRA8, 900X714 X1X1) (Required Memory Estimate: 12.256622 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:137][  0]LogMaterial: Display: Missing cached shadermap for M_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 52088F5D4CB184A434A91C5DD2207737364F1380), compiling. 
+[2022.09.05-16.57.39:719][  0]LogTexture: Display: Building textures: /Game/FPS/Effects/Textures/Noise/T_TileNoise.T_TileNoise (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Walk.A_FPP_Shotgun_Walk
+[2022.09.05-16.57.39:719][  0]LogStaticMesh: Built static mesh [0.14s] /Game/FPS/Weapons/Claymore/SM_Claymore.SM_Claymore
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Run.A_FPP_Shotgun_Run
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Walk.A_FPP_Pistol_Walk
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Run.A_FPP_Pistol_Run
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Walk.A_FPP_MG_Walk
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Run.A_FPP_MG_Run
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_Walk.A_FPP_Knife_Walk
+[2022.09.05-16.57.39:719][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_Run.A_FPP_Knife_Run
+[2022.09.05-16.57.39:719][  0]LogMaterial: Display: Missing cached shadermap for M_Decal_BulletHole in PCD3D_SM5, Default, SM5 (DDC key hash: 43A177809F6C551153F55154816A13989EBC1662), compiling. 
+[2022.09.05-16.57.39:950][  0]LogMaterial: Display: Missing cached shadermap for M_blood_cloud_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E0340F9F3A4422B29CB1A645A35A455F1E56101), compiling. 
+[2022.09.05-16.57.40:486][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.40:486][  0]LogStaticMesh: Display: Building static mesh SM_FragGrenade...
+[2022.09.05-16.57.40:486][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_CrossHair_Top.T_CrossHair_Top (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.40:486][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.40:486][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.40:487][  0]LogMaterial: Display: Missing cached shadermap for M_blood_splash_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 06E034F70D4D1D620AF8FAFF90D11A4A72C6D732), compiling. 
+[2022.09.05-16.57.41:093][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:093][  0]LogStaticMesh: Built static mesh [0.49s] /Game/FPS/Environment/Meshes/SM_FragGrenade.SM_FragGrenade
+[2022.09.05-16.57.41:093][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:094][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:094][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:094][  0]LogMaterial: Display: Missing cached shadermap for M_blood_splash_03 in PCD3D_SM5, Default, SM5 (DDC key hash: CCF2599E4160E0A1EC9065815406E9DBFA49FD64), compiling. 
+[2022.09.05-16.57.41:570][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_HealthIcon_01.T_HealthIcon_01 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:571][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_AbilitieMedic.T_AbilitieMedic (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:571][  0]LogMaterial: Display: Missing cached shadermap for M_LensFlare_02 in PCD3D_SM5, Default, SM5 (DDC key hash: BA82D5407A566A005606E974802307F6CB79E8BF), compiling. 
+[2022.09.05-16.57.41:725][  0]LogMaterial: Display: Missing cached shadermap for M_spark_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2C79DEE00E4C212229382A7C5A17D8DAE9B9E2AD), compiling. 
+[2022.09.05-16.57.41:890][  0]LogTexture: Display: Building textures: /Game/FPS/Characters/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.41:890][  0]LogMaterial: Display: Missing cached shadermap for M_Lensflare_01 in PCD3D_SM5, Default, SM5 (DDC key hash: B744BCD40BD729874ACEE6865877E65DB934382C), compiling. 
+[2022.09.05-16.57.42:115][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/MapImages/T_CaptureTheFlag_Image.T_CaptureTheFlag_Image (TFO_DXT1, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.42:115][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/MapImages/T_Conquest_Image.T_Conquest_Image (TFO_DXT1, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.42:115][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/MapImages/T_KillConfirmed_Image.T_KillConfirmed_Image (TFO_DXT1, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.42:116][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/MapImages/T_FreeForAll_Image.T_FreeForAll_Image (TFO_DXT1, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.42:116][  0]LogMaterial: Display: Missing cached shadermap for M_SoftGradient_Muzzle in PCD3D_SM5, Default, SM5 (DDC key hash: F725BDBCC58BDB252A1F25844DB8C6238583C103), compiling. 
+[2022.09.05-16.57.42:300][  0]LogMaterial: Display: Missing cached shadermap for M_ImpactSmoke in PCD3D_SM5, Default, SM5 (DDC key hash: F2C400B0591474893397D79454CF1D6541178E83), compiling. 
+[2022.09.05-16.57.42:877][  0]LogMaterial: Display: Missing cached shadermap for M_SmokeBall in PCD3D_SM5, Default, SM5 (DDC key hash: 0D0E59237D6D839C118C4971031441F30F739200), compiling. 
+[2022.09.05-16.57.43:069][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/T_FPS_Template_Logo.T_FPS_Template_Logo (TFO_AutoDXT, 1000X1000 X1X1) (Required Memory Estimate: 19.073486 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.43:069][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/MapImages/T_Rush_Image.T_Rush_Image (TFO_DXT1, 1920X1040 X1X1) (Required Memory Estimate: 38.085938 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.43:069][  0]LogMaterial: Display: Missing cached shadermap for M_muzzle_flash_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 7511733C61DBFF7193CA41C058CE9CA5631CF528), compiling. 
+[2022.09.05-16.57.43:240][  0]LogTexture: Display: Building textures: /Game/FPS/UI/Textures/MapImages/TeamDeathmatch_Image.TeamDeathmatch_Image (TFO_DXT1, 1920X1040 X1X1) (Required Memory Estimate: 38.085938 MB), EncodeSpeed: Fast
+[2022.09.05-16.57.43:240][  0]LogMaterial: Display: Missing cached shadermap for M_MuzzleGlow in PCD3D_SM5, Default, SM5 (DDC key hash: 9C186BB5764F3C57DE512783ADE3BDC8BBFD710C), compiling. 
+[2022.09.05-16.57.43:490][  0]LogStaticMesh: Display: Building static mesh SM_MuzzleCone...
+[2022.09.05-16.57.43:490][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Effects/Meshes/Weapon/SM_MuzzleCone) ...
+[2022.09.05-16.57.43:587][  0]LogStaticMesh: Built static mesh [0.02s] /Game/FPS/Effects/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone
+[2022.09.05-16.57.43:588][  0]LogSkeletalMesh: Building Skeletal Mesh SK_AssaultRifle...
+[2022.09.05-16.57.43:588][  0]LogMaterial: Display: Missing cached shadermap for M_WhiteUI in PCD3D_SM5, Default, SM5 (DDC key hash: A24E86A8C57E003F953BBE6E1CD9A45D454ADFFE), compiling. 
+[2022.09.05-16.57.43:741][  0]LogMaterial: Display: Missing cached shadermap for ObjetiveMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BD0E58860DF0CCAB569C514E149EF09EFD23861D), compiling. 
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/AssaultRifle/A_Assault_Rifle_Shot.A_Assault_Rifle_Shot
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/AssaultRifle/A_Assault_Rifle_Reload.A_Assault_Rifle_Reload
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_Melee.A_TPP_Melee
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Idle.A_TPP_Pistol_Idle
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Shot1.A_TPP_Pistol_Shot1
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_Shot1.A_TPP_Rifle_Shot1
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_Idle.A_TPP_Rifle_Idle
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_Equip.A_TPP_Rifle_Equip
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_QuickReload.A_TPP_Rifle_QuickReload
+[2022.09.05-16.57.44:196][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_AR_Unequip.A_TPP_AR_Unequip
+[2022.09.05-16.57.44:197][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\ronni\OneDrive\Documents\GitHub\New_Template\FlutterBeam_Shooter\Content\FPS\Weapons\SubmachineGun\SK_SMG.uasset: FMeshUtilities::CreateImportDataFromLODModel: ImportData created for LOD 0
+[2022.09.05-16.57.44:980][  0]LogSkeletalMesh: Built Skeletal Mesh [1.13s] /Game/FPS/Weapons/AssaultRifle/SK_AssaultRifle.SK_AssaultRifle
+[2022.09.05-16.57.44:980][  0]LogSkeletalMesh: Building Skeletal Mesh SK_MachineGun...
+[2022.09.05-16.57.44:980][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 5602E2E0EFB93319810B88C59AE3818C218E4E0C), compiling. 
+[2022.09.05-16.57.45:539][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_Assault_Rifle_Melee.A_FPP_Assault_Rifle_Melee
+[2022.09.05-16.57.45:540][  0]LogSkeletalMesh: Built Skeletal Mesh [0.67s] /Game/FPS/Weapons/MachineGun/SK_MachineGun.SK_MachineGun
+[2022.09.05-16.57.45:540][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Pistol_1...
+[2022.09.05-16.57.45:540][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 3D639CB28BCE6FCD06F61C2B1A195C0D980BD493), compiling. 
+[2022.09.05-16.57.45:937][  0]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/FPS/Weapons/Pistol_01/SK_Pistol_1.SK_Pistol_1
+[2022.09.05-16.57.45:937][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Pistol2...
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/Sprint/A_TPP_SMG_Sprint_Fwd_Rt.A_TPP_SMG_Sprint_Fwd_Rt
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/Sprint/A_TPP_Shotgun_Sprint_Fwd_Rt.A_TPP_Shotgun_Sprint_Fwd_Rt
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/Sprint/A_TPP_SMG_Sprint_Fwd.A_TPP_SMG_Sprint_Fwd
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/Sprint/A_TPP_Pistol_Sprint_Fwd_Rt.A_TPP_Pistol_Sprint_Fwd_Rt
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/Sprint/A_TPP_Pistol_Sprint_Fwd_Lt.A_TPP_Pistol_Sprint_Fwd_Lt
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/Sprint/A_TPP_Shotgun_Sprint_Fwd.A_TPP_Shotgun_Sprint_Fwd
+[2022.09.05-16.57.45:937][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/Sprint/A_TPP_Shotgun_Sprint_Fwd_Lt.A_TPP_Shotgun_Sprint_Fwd_Lt
+[2022.09.05-16.57.45:938][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/Sprint/A_TPP_SMG_Sprint_Fwd_Lt.A_TPP_SMG_Sprint_Fwd_Lt
+[2022.09.05-16.57.45:938][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body_B in PCD3D_SM5, Default, SM5 (DDC key hash: BABE6D10D7EAA1EA16C273D02251DBC473A476B3), compiling. 
+[2022.09.05-16.57.46:395][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/Sprint/A_TPP_Pistol_Sprint_Fwd.A_TPP_Pistol_Sprint_Fwd
+[2022.09.05-16.57.46:630][  0]LogSkeletalMesh: Built Skeletal Mesh [0.82s] /Game/FPS/Weapons/Pistol_02/SK_Pistol2.SK_Pistol2
+[2022.09.05-16.57.46:630][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Shotgun...
+[2022.09.05-16.57.46:630][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/Sprint/A_TPP_MG_Sprint_Fwd_Rt.A_TPP_MG_Sprint_Fwd_Rt
+[2022.09.05-16.57.46:630][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.09.05-16.57.46:630][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.05-16.57.46:631][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-16.57.46:632][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.09.05-16.57.46:656][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Mannequin) ...
+[2022.09.05-16.57.47:472][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/Sprint/A_TPP_MG_Sprint_Fwd_Lt.A_TPP_MG_Sprint_Fwd_Lt
+[2022.09.05-16.57.47:472][  0]LogSkeletalMesh: Built Skeletal Mesh [0.91s] /Game/FPS/Weapons/Shotgun/SK_Shotgun.SK_Shotgun
+[2022.09.05-16.57.47:472][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.09.05-16.57.47:472][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/FPS/Characters/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2022.09.05-16.57.47:472][  0]LogSkeletalMesh: Building Skeletal Mesh SK_SMG...
+[2022.09.05-16.57.47:472][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_SMG) ...
+[2022.09.05-16.57.49:953][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 0 
+[2022.09.05-16.57.49:953][  0]LogSkeletalMesh: Built Skeletal Mesh [2.49s] /Game/FPS/Weapons/SubmachineGun/SK_SMG.SK_SMG
+[2022.09.05-16.57.49:953][  0]LogSkeletalMesh: Building Skeletal Mesh SK_SniperRifle...
+[2022.09.05-16.57.49:953][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_SniperRifle) ...
+[2022.09.05-16.57.50:772][  0]LogSkeletalMesh: Built Skeletal Mesh [0.82s] /Game/FPS/Weapons/Sniper/SK_SniperRifle.SK_SniperRifle
+[2022.09.05-16.57.50:772][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Knife...
+[2022.09.05-16.57.50:772][  0]LogStaticMesh: Display: Building static mesh SM_Medkit...
+[2022.09.05-16.57.50:772][  0]LogStaticMesh: Display: Building static mesh SM_Ammo_Box...
+[2022.09.05-16.57.50:772][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.05-16.57.50:892][  0]LogStaticMesh: Built static mesh [0.13s] /Game/FPS/Environment/Meshes/SM_Medkit.SM_Medkit
+[2022.09.05-16.57.50:938][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.09.05-16.57.50:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.05-16.57.50:941][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.624ms to complete.
+[2022.09.05-16.57.50:941][  0]LogFileHelpers: Loading map 'MainMenu' took 37.064
+[2022.09.05-16.57.50:993][  0]LogStaticMesh: Built static mesh [0.23s] /Game/FPS/Environment/Meshes/SM_Ammo_Box.SM_Ammo_Box
+[2022.09.05-16.57.50:993][  0]LogUnrealEdMisc: Total Editor Startup Time, took 71.799
+[2022.09.05-16.57.50:993][  0]LogShaderCompilers: Display: ================================================
+[2022.09.05-16.57.50:993][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Total job queries 1191, among them cache hits 0 (0.00%)
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Shaders Compiled: 1191
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Jobs assigned 43, completed 0 (0.00%)
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.25 s
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.05-16.57.50:994][  0]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 4.78 jobs/batch
+[2022.09.05-16.57.50:995][  0]LogShaderCompilers: Display: ================================================
+[2022.09.05-16.57.51:210][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.05-16.57.51:210][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.05-16.57.51:210][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.05-16.57.51:251][  0]LogSkeletalMesh: Built Skeletal Mesh [0.48s] /Game/FPS/Weapons/Knife/SK_Knife.SK_Knife
+[2022.09.05-16.57.51:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-16.57.51:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-16.57.51:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-16.57.51:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.05-16.57.51:397][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:398][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:400][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:401][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:403][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:403][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:406][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:406][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:411][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:411][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:414][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:415][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:417][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:419][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:420][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:422][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:423][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:426][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.05-16.57.51:426][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.05-16.57.51:426][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.05-16.57.52:334][  0]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.05-16.57.52:340][  0]LogSlate: Took 0.000605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.05-16.57.52:353][  0]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.05-16.57.52:360][  0]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.05-16.57.52:363][  0]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.05-16.57.52:488][  0]LogViewport: Scene viewport resized to 1289x517, mode Windowed.
+[2022.09.05-16.57.54:058][  0]LogStall: Startup...
+[2022.09.05-16.57.54:063][  0]LogStall: Startup complete.
+[2022.09.05-16.57.54:125][  0]LogLoad: (Engine Initialization) Total time: 74.93 seconds
+[2022.09.05-16.57.54:125][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.05-16.57.54:403][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Throw/A_TPP_Throw_Item.A_TPP_Throw_Item
+[2022.09.05-16.57.54:403][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Throw/A_FPP_Throw_Item.A_FPP_Throw_Item
+[2022.09.05-16.57.54:403][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.05-16.57.54:579][  1]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 70.154472
+[2022.09.05-16.57.54:709][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/' took 0.52s
+[2022.09.05-16.57.54:829][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/Sprint/A_TPP_MG_Sprint_Fwd.A_TPP_MG_Sprint_Fwd
+[2022.09.05-16.57.55:251][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Walk/A_TPP_Walk_Rt.A_TPP_Walk_Rt
+[2022.09.05-16.57.55:251][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Walk/A_TPP_Walk_Lt.A_TPP_Walk_Lt
+[2022.09.05-16.57.55:251][  2]LogSlate: Took 0.000563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.05-16.57.55:251][  2]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.05-16.57.55:391][  3]LogAssetRegistry: Asset discovery search completed in 64.0568 seconds
+[2022.09.05-16.57.55:449][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.09.05-16.57.55:787][  7]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 71.339966
+[2022.09.05-16.57.55:792][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.09.05-16.57.55:792][  7]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.09.05-16.57.55:797][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71.363235
+[2022.09.05-16.57.55:856][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Walk/A_TPP_Walk_Fwd.A_TPP_Walk_Fwd
+[2022.09.05-16.57.55:856][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Walk/A_TPP_Walk_Fwd_Lt.A_TPP_Walk_Fwd_Lt
+[2022.09.05-16.57.56:073][ 18]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.09.05-16.57.56:167][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 71.723747
+[2022.09.05-16.57.56:174][ 23]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1963445314
+[2022.09.05-16.57.56:175][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71.723747, Update Interval: 332.472900
+[2022.09.05-16.57.56:380][ 30]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Walk/A_TPP_Walk_Bwd_Rt.A_TPP_Walk_Bwd_Rt
+[2022.09.05-16.57.56:697][ 43]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Walk/A_TPP_Walk_Bwd.A_TPP_Walk_Bwd
+[2022.09.05-16.57.56:999][ 57]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jog/A_TPP_Jog_Right.A_TPP_Jog_Right
+[2022.09.05-16.57.57:270][ 66]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jog/A_TPP_Jog_Left.A_TPP_Jog_Left
+[2022.09.05-16.57.57:526][ 71]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jog/A_TPP_Jog_Fwd_Lt.A_TPP_Jog_Fwd_Lt
+[2022.09.05-16.57.57:665][ 74]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jog/A_TPP_Jog_Fwd.A_TPP_Jog_Fwd
+[2022.09.05-16.57.57:984][ 88]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jog/A_TPP_Jog_Bwd_Rt.A_TPP_Jog_Bwd_Rt
+[2022.09.05-16.57.58:356][102]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jog/A_TPP_Jog_Bwd.A_TPP_Jog_Bwd
+[2022.09.05-16.57.58:392][103]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Crouch/A_TPP_SMG_Crouch_Idle.A_TPP_SMG_Crouch_Idle
+[2022.09.05-16.57.58:918][125]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Crouch/A_Crouch_Rt.A_Crouch_Rt
+[2022.09.05-16.57.59:420][147]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Crouch/A_Crouch_Lt.A_Crouch_Lt
+[2022.09.05-16.57.59:717][160]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Crouch/A_Crouch_Fwd.A_Crouch_Fwd
+[2022.09.05-16.57.59:775][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Crouch/A_Crouch_Bwd.A_Crouch_Bwd
+[2022.09.05-16.58.00:451][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Knife/A_TPP_Knife_Sprint_Fwd_Rt.A_TPP_Knife_Sprint_Fwd_Rt
+[2022.09.05-16.58.00:724][202]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Knife/A_TPP_Knife_Sprint_Fwd_Lt.A_TPP_Knife_Sprint_Fwd_Lt
+[2022.09.05-16.58.00:802][205]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Knife/A_TPP_Knife_Sprint_Fwd.A_TPP_Knife_Sprint_Fwd
+[2022.09.05-16.58.01:175][212]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Run/A_TPP_AssaultRifle_Sprint_Fwd_Rt.A_TPP_AssaultRifle_Sprint_Fwd_Rt
+[2022.09.05-16.58.01:385][219]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Run/A_TPP_AssaultRifle_Sprint_Fwd_Lt.A_TPP_AssaultRifle_Sprint_Fwd_Lt
+[2022.09.05-16.58.01:448][221]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Ironsight_dle.A_TPP_SMG_Ironsight_dle
+[2022.09.05-16.58.02:101][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Crouch_Pose_Ironsight_Walk.A_TPP_SMG_Crouch_Pose_Ironsight_Walk
+[2022.09.05-16.58.02:163][250]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Crouch_Pose_Ironsight.A_TPP_SMG_Crouch_Pose_Ironsight
+[2022.09.05-16.58.02:195][252]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Crouch_Fwd.A_TPP_SMG_Crouch_Fwd
+[2022.09.05-16.58.02:698][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/A_SG_Pose_Ironsight.A_SG_Pose_Ironsight
+[2022.09.05-16.58.02:759][268]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/A_SG_Pose_Idle.A_SG_Pose_Idle
+[2022.09.05-16.58.02:798][270]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/A_SG_Pose_Crouch_Motion_Ironsight.A_SG_Pose_Crouch_Motion_Ironsight
+[2022.09.05-16.58.02:855][273]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/A_SG_Pose_Crouch_Motion.A_SG_Pose_Crouch_Motion
+[2022.09.05-16.58.02:882][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/A_SG_Pose_Crouch_Ironsight.A_SG_Pose_Crouch_Ironsight
+[2022.09.05-16.58.02:917][275]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Shotgun/A_SG_Pose_Crouch.A_SG_Pose_Crouch
+[2022.09.05-16.58.02:954][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Pose_Crouch_Motion_Ironsight.A_TPP_Pistol_Pose_Crouch_Motion_Ironsight
+[2022.09.05-16.58.02:998][279]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Pose_Crouch_Ironsight.A_TPP_Pistol_Pose_Crouch_Ironsight
+[2022.09.05-16.58.03:020][280]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Ironsight_Idle.A_TPP_Pistol_Ironsight_Idle
+[2022.09.05-16.58.03:285][292]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Crouch_Idle.A_TPP_Pistol_Crouch_Idle
+[2022.09.05-16.58.04:408][336]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_Crouch_Fwd.A_TPP_Pistol_Crouch_Fwd
+[2022.09.05-16.58.04:877][353]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/A_TPP_MG_Pose_Ironsight.A_TPP_MG_Pose_Ironsight
+[2022.09.05-16.58.04:946][355]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/A_TPP_MG_Pose_Idle.A_TPP_MG_Pose_Idle
+[2022.09.05-16.58.04:947][355]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/A_TPP_MG_Pose_Crouch_Motion_Ironsight.A_TPP_MG_Pose_Crouch_Motion_Ironsight
+[2022.09.05-16.58.04:962][356]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/A_TPP_MG_Pose_Crouch_Motion.A_TPP_MG_Pose_Crouch_Motion
+[2022.09.05-16.58.05:012][358]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/A_TPP_MG_Pose_Crouch.A_TPP_MG_Pose_Crouch
+[2022.09.05-16.58.05:013][358]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Machinegun/A_TPP_MG_Pose_Crouch_Ironsight.A_TPP_MG_Pose_Crouch_Ironsight
+[2022.09.05-16.58.05:058][360]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jump/V2/A_TPP_Jump_Start.A_TPP_Jump_Start
+[2022.09.05-16.58.05:058][360]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jump/V2/A_TPP_Jump_Loop.A_TPP_Jump_Loop
+[2022.09.05-16.58.05:204][366]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Jump/V2/A_TPP_Jump_End.A_TPP_Jump_End
+[2022.09.05-16.58.05:554][380]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Knife/A_TPP_Knife_Pose.A_TPP_Knife_Pose
+[2022.09.05-16.58.05:615][382]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Grenade/A_TPP_Grenade_Throw.A_TPP_Grenade_Throw
+[2022.09.05-16.58.05:643][384]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Grenade/A_TPP_Grenade_Start.A_TPP_Grenade_Start
+[2022.09.05-16.58.05:779][391]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Grenade/A_TPP_Grenade_Pose.A_TPP_Grenade_Pose
+[2022.09.05-16.58.05:798][392]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Claymore/A_FPP_ClaymoreHold.A_FPP_ClaymoreHold
+[2022.09.05-16.58.05:839][394]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Poses/A_AR_Pose_Ironsight.A_AR_Pose_Ironsight
+[2022.09.05-16.58.05:839][394]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Poses/A_AR_Pose_Idle.A_AR_Pose_Idle
+[2022.09.05-16.58.05:892][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Poses/A_AR_Pose_Crouch_Motion_Ironsight.A_AR_Pose_Crouch_Motion_Ironsight
+[2022.09.05-16.58.05:892][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Poses/A_AR_Pose_Crouch_Motion.A_AR_Pose_Crouch_Motion
+[2022.09.05-16.58.05:906][397]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Poses/A_AR_Pose_Crouch_Ironsight.A_AR_Pose_Crouch_Ironsight
+[2022.09.05-16.58.05:939][398]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Poses/A_AR_Pose_Crouch.A_AR_Pose_Crouch
+[2022.09.05-16.58.06:072][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Leaning/A_TPP_SMG_Leaning_Rt.A_TPP_SMG_Leaning_Rt
+[2022.09.05-16.58.06:072][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Idle_MS.A_TPP_SMG_Idle_MS
+[2022.09.05-16.58.06:102][400]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Leaning/A_TPP_SMG_Leaning_Lt.A_TPP_SMG_Leaning_Lt
+[2022.09.05-16.58.06:102][400]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Idle.A_TPP_SMG_Idle
+[2022.09.05-16.58.06:299][409]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Run/A_TPP_AssaultRifle_Sprint_Additive1.A_TPP_AssaultRifle_Sprint_Additive1
+[2022.09.05-16.58.06:590][422]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Run/A_TPP_AssaultRifle_Sprint_Additive.A_TPP_AssaultRifle_Sprint_Additive
+[2022.09.05-16.58.06:621][424]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/Run/A_TPP_AssaultRifle_Sprint_Fwd.A_TPP_AssaultRifle_Sprint_Fwd
+[2022.09.05-16.58.07:057][442]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_IdlePose.A_TPP_Rifle_IdlePose
+[2022.09.05-16.58.07:072][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_AimOffset_U.A_TPP_Rifle_AimOffset_U
+[2022.09.05-16.58.07:101][445]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_AimOffset_R.A_TPP_Rifle_AimOffset_R
+[2022.09.05-16.58.07:141][447]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_AimOffset_L.A_TPP_Rifle_AimOffset_L
+[2022.09.05-16.58.07:178][449]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_AimOffset_D.A_TPP_Rifle_AimOffset_D
+[2022.09.05-16.58.07:220][451]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Knife/A_TPP_Knife_Melee2.A_TPP_Knife_Melee2
+[2022.09.05-16.58.07:380][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_Unequip.A_FPP_Knife_Unequip
+[2022.09.05-16.58.07:438][461]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_Equip.A_FPP_Knife_Equip
+[2022.09.05-16.58.07:579][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/Sniper/A_Sniper_Rifle_Shot.A_Sniper_Rifle_Shot
+[2022.09.05-16.58.07:579][467]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_Attack.A_FPP_Knife_Attack
+[2022.09.05-16.58.07:596][468]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/Sniper/A_Sniper_Rifle_Reload.A_Sniper_Rifle_Reload
+[2022.09.05-16.58.07:645][469]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/SMG/A_SMG_Reload.A_SMG_Reload
+[2022.09.05-16.58.07:659][470]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/SMG/A_TPP_SMG_Shot.A_TPP_SMG_Shot
+[2022.09.05-16.58.07:793][477]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Locomotion/Idle/A_TPP_SMG_Idle1.A_TPP_SMG_Idle1
+[2022.09.05-16.58.07:902][478]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Unequip.A_FPP_SMG_Unequip
+[2022.09.05-16.58.07:993][482]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Shot.A_FPP_SMG_Shot
+[2022.09.05-16.58.08:208][485]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Reload.A_FPP_SMG_Reload
+[2022.09.05-16.58.08:626][505]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Ironsight_Shot.A_FPP_SMG_Ironsight_Shot
+[2022.09.05-16.58.08:731][509]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Equip.A_FPP_SMG_Equip
+[2022.09.05-16.58.08:815][513]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/Shotgun/A_Shotgun_Reload.A_Shotgun_Reload
+[2022.09.05-16.58.08:836][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Unequip.A_FPP_Shotgun_Unequip
+[2022.09.05-16.58.08:936][518]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Shot.A_FPP_Shotgun_Shot
+[2022.09.05-16.58.09:025][522]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Reload.A_FPP_Shotgun_Reload
+[2022.09.05-16.58.09:242][531]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Ironsight_Shot.A_FPP_Shotgun_Ironsight_Shot
+[2022.09.05-16.58.09:306][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Equip.A_FPP_Shotgun_Equip
+[2022.09.05-16.58.09:324][535]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Weapons/Pistol_02/A_Pistol2_Fire.A_Pistol2_Fire
+[2022.09.05-16.58.09:346][536]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/Pistol_02/A_Pistol2_Reload.A_Pistol2_Reload
+[2022.09.05-16.58.09:369][537]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/Pistol/A_Pistol_Reload.A_Pistol_Reload
+[2022.09.05-16.58.09:369][537]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/Pistol/A_Pistol_Shot.A_Pistol_Shot
+[2022.09.05-16.58.09:391][538]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_AR_Equip.A_TPP_AR_Equip
+[2022.09.05-16.58.09:392][538]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/Pistol/A_TPP_Pistol_QuickReload.A_TPP_Pistol_QuickReload
+[2022.09.05-16.58.09:505][543]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Unequip.A_FPP_Pistol_Unequip
+[2022.09.05-16.58.09:629][548]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Shot.A_FPP_Pistol_Shot
+[2022.09.05-16.58.09:684][550]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Reload.A_FPP_Pistol_Reload
+[2022.09.05-16.58.09:776][554]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Ironsight_Shot.A_FPP_Pistol_Ironsight_Shot
+[2022.09.05-16.58.09:925][562]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Equip.A_FPP_Pistol_Equip
+[2022.09.05-16.58.09:970][563]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/MachineGun/A_MG_Shot.A_MG_Shot
+[2022.09.05-16.58.09:990][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/WeaponAnimations/MachineGun/A_MG_Reload.A_MG_Reload
+[2022.09.05-16.58.10:015][565]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/TPP_Animations/AssaultRifle/A_TPP_Rifle_Reload_T2.A_TPP_Rifle_Reload_T2
+[2022.09.05-16.58.10:016][565]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Unequip.A_FPP_MG_Unequip
+[2022.09.05-16.58.10:246][573]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Shot.A_FPP_MG_Shot
+[2022.09.05-16.58.10:363][577]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Reload.A_FPP_MG_Reload
+[2022.09.05-16.58.10:763][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Ironsight_Shot.A_FPP_MG_Ironsight_Shot
+[2022.09.05-16.58.10:880][598]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Equip.A_FPP_MG_Equip
+[2022.09.05-16.58.11:051][601]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_Assault_Rifle_Shot.A_FPP_Assault_Rifle_Shot
+[2022.09.05-16.58.11:051][601]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_Assault_Rifle_Unequip.A_FPP_Assault_Rifle_Unequip
+[2022.09.05-16.58.11:132][605]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_Assault_Rifle_Reload.A_FPP_Assault_Rifle_Reload
+[2022.09.05-16.58.11:243][610]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_Assault_Rifle_Ironsight_Shot.A_FPP_Assault_Rifle_Ironsight_Shot
+[2022.09.05-16.58.11:300][614]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_Assault_Rifle_Equip.A_FPP_Assault_Rifle_Equip
+[2022.09.05-16.58.11:339][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_ThrowStart.A_FPP_Grenade_ThrowStart
+[2022.09.05-16.58.11:456][622]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_ThrowHoldStart.A_FPP_Grenade_ThrowHoldStart
+[2022.09.05-16.58.11:553][626]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_ThrowHoldLoop.A_FPP_Grenade_ThrowHoldLoop
+[2022.09.05-16.58.11:642][630]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_ThrowEnd.A_FPP_Grenade_ThrowEnd
+[2022.09.05-16.58.11:824][638]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_Idle.A_FPP_Knife_Idle
+[2022.09.05-16.58.11:892][641]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Claymore/A_FPP_Claymore_Walk.A_FPP_Claymore_Walk
+[2022.09.05-16.58.12:070][649]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Claymore/A_FPP_Claymore_Idle.A_FPP_Claymore_Idle
+[2022.09.05-16.58.12:228][657]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPS_Assault_Rifle_Walk.A_FPS_Assault_Rifle_Walk
+[2022.09.05-16.58.12:433][665]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPS_Assault_Rifle_Run.A_FPS_Assault_Rifle_Run
+[2022.09.05-16.58.12:541][671]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Jump_Loop.A_FPP_SMG_Jump_Loop
+[2022.09.05-16.58.12:562][672]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Jump_End.A_FPP_SMG_Jump_End
+[2022.09.05-16.58.12:656][674]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/SMG/A_FPP_SMG_Ironsight.A_FPP_SMG_Ironsight
+[2022.09.05-16.58.12:656][674]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Jump_Start.A_FPP_Shotgun_Jump_Start
+[2022.09.05-16.58.12:690][676]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Jump_Loop.A_FPP_Shotgun_Jump_Loop
+[2022.09.05-16.58.12:791][678]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Jump_End.A_FPP_Shotgun_Jump_End
+[2022.09.05-16.58.12:791][678]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Shotgun/A_FPP_Shotgun_Ironsight.A_FPP_Shotgun_Ironsight
+[2022.09.05-16.58.12:845][680]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Jump_Start.A_FPP_Pistol_Jump_Start
+[2022.09.05-16.58.12:884][682]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Jump_Loop.A_FPP_Pistol_Jump_Loop
+[2022.09.05-16.58.12:905][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Jump_End.A_FPP_Pistol_Jump_End
+[2022.09.05-16.58.13:001][686]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Pistol/A_FPP_Pistol_Ironsight.A_FPP_Pistol_Ironsight
+[2022.09.05-16.58.13:001][686]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Jump_Start.A_FPP_MG_Jump_Start
+[2022.09.05-16.58.13:050][688]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Jump_Loop.A_FPP_MG_Jump_Loop
+[2022.09.05-16.58.13:096][690]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Jump_End.A_FPP_MG_Jump_End
+[2022.09.05-16.58.13:138][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/MachineGun/A_FPP_MG_Ironsight.A_FPP_MG_Ironsight
+[2022.09.05-16.58.13:221][693]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_JumpStart.A_FPP_Knife_JumpStart
+[2022.09.05-16.58.13:221][693]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_JumpLoop.A_FPP_Knife_JumpLoop
+[2022.09.05-16.58.13:301][696]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Knife/A_FPP_Knife_JumpEnd.A_FPP_Knife_JumpEnd
+[2022.09.05-16.58.13:393][700]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_Throw.A_FPP_Grenade_Throw
+[2022.09.05-16.58.13:450][703]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_Start.A_FPP_Grenade_Start
+[2022.09.05-16.58.13:516][706]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Grenade/A_FPP_Grenade_Pose.A_FPP_Grenade_Pose
+[2022.09.05-16.58.13:560][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Claymore/A_FPP_ClaymoreStart.A_FPP_ClaymoreStart
+[2022.09.05-16.58.13:611][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/Claymore/A_FPP_Claymore.A_FPP_Claymore
+[2022.09.05-16.58.13:611][712]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FPS/Animations/FPP_Animations/AssaultRifle/A_FPP_DefaultPose.A_FPP_DefaultPose
+[2022.09.05-16.58.13:656][714]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
+[2022.09.05-16.58.13:657][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-16.58.13:684][714]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.05-16.58.13:695][714]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
