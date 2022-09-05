@@ -1894,3 +1894,9 @@ Make sure 'WB_JoinServerMenu_C' has been compiled for  Get JoinServer
 [2022.09.05-18.37.21:043][546]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_CreateMatchMenu.WB_CreateMatchMenu
 [2022.09.05-18.37.21:052][546]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_JoinServerMenu.WB_JoinServerMenu
 [2022.09.05-18.37.21:056][546]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
+[2022.09.05-18.38.35:969][199]LogUObjectHash: Compacting FUObjectHashTables data took   9.59ms
+[2022.09.05-18.38.39:747][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2022.09.05-18.38.39:808][396]LogSavePackage: Moving output files for package: /Game/FPS/Maps/MainMenu
+[2022.09.05-18.38.39:813][396]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/MainMenuE1FE694E43911648FE63EDBB3D8F3E90.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/Maps/MainMenu.umap'
+[2022.09.05-18.38.39:965][396]AssetCheck: New page: Asset Save: MainMenu
+[2022.09.05-18.38.39:965][396]LogContentValidation: Display: Validating World /Game/FPS/Maps/MainMenu.MainMenu
