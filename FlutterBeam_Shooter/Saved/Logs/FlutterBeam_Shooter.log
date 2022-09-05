@@ -1900,3 +1900,44 @@ Make sure 'WB_JoinServerMenu_C' has been compiled for  Get JoinServer
 [2022.09.05-18.38.39:813][396]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/MainMenuE1FE694E43911648FE63EDBB3D8F3E90.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/Maps/MainMenu.umap'
 [2022.09.05-18.38.39:965][396]AssetCheck: New page: Asset Save: MainMenu
 [2022.09.05-18.38.39:965][396]LogContentValidation: Display: Validating World /Game/FPS/Maps/MainMenu.MainMenu
+[2022.09.05-18.39.04:315][725]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.09.05-18.41.07:036][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6262.581543
+[2022.09.05-18.41.07:352][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.05-18.41.07:352][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6262.884766, Update Interval: 313.630798
+[2022.09.05-18.41.13:255][799]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Accessed None reading structure Key
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:035B
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Accessed None reading structure bShift
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:038A
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Accessed None reading structure bCtrl
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03B9
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Accessed None reading structure bAlt
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:03E8
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetActionMappingByName_OutMappings_1 of length 0!
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-18.41.13:256][799]LogScript: Warning: Accessed None reading structure bCmd
+	WB_KeyRemap_C /Game/FPS/Maps/MainMenu.MainMenu:WB_KeyRemap_C_1
+	Function /Game/FPS/UI/Menus/WB_KeyRemap.WB_KeyRemap_C:ExecuteUbergraph_WB_KeyRemap:0417
+[2022.09.05-18.41.51:214][815]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.05-18.41.53:203][922]BlueprintLog: New page: Compile WB_ServerSlot
+[2022.09.05-18.41.53:472][922]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2022.09.05-18.41.54:699][938]LogSavePackage: Moving output files for package: /Game/FPS/UI/Menus/WB_ServerSlot
+[2022.09.05-18.41.54:704][938]LogSavePackage: Moving '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Saved/WB_ServerSlot719410BE49FEB52B76A871BF24727FA7.tmp' to '../../../../../../Users/ronni/OneDrive/Documents/GitHub/New_Template/FlutterBeam_Shooter/Content/FPS/UI/Menus/WB_ServerSlot.uasset'
+[2022.09.05-18.41.54:738][938]AssetCheck: New page: Asset Save: WB_ServerSlot
+[2022.09.05-18.41.54:739][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/FPS/UI/Menus/WB_ServerSlot.WB_ServerSlot
