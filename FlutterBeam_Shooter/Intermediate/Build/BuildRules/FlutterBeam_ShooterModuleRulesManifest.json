@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Flutterbeam\\FlutterBeam_Shooter\\Plugins\\AdvancedSessions\\AdvancedSessionsPlugin-master\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\Unreal Projects\\Flutterbeam\\FlutterBeam_Shooter\\Plugins\\AdvancedSessions\\AdvancedSessionsPlugin-master\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
