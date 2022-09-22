@@ -798,3 +798,138 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.22-00.49.22:362][ 22]LogSlate: Took 0.034820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.09.22-00.49.49:959][163]LogDerivedDataCache: C:/Users/Rocco Jelsomeno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.388 and deleted 0 file(s) with total size 0 MiB.
 [2022.09.22-00.50.51:610][183]LogEditorViewport: Clicking Background
+[2022.09.22-00.54.53:379][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 435.237213
+[2022.09.22-00.54.54:398][632]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.22-00.54.54:398][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 435.915894, Update Interval: 356.757111
+[2022.09.22-00.55.49:463][250]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/FPS/Blueprints/CameraShake/CS_SniperShot.CS_SniperShot_C has parent /Script/Engine.MatineeCameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/FPS/Blueprints/CameraShake/CS_Run.CS_Run_C has parent /Script/Engine.MatineeCameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/FPS/Blueprints/CameraShake/CS_Melee.CS_Melee_C has parent /Script/Engine.MatineeCameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/FPS/Blueprints/CameraShake/CS_Impact.CS_Impact_C has parent /Script/Engine.MatineeCameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/FPS/Blueprints/CameraShake/CS_FireWeapon.CS_FireWeapon_C has parent /Script/Engine.MatineeCameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/FPS/Blueprints/CameraShake/CS_Explosion.CS_Explosion_C has parent /Script/Engine.MatineeCameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/WB_FindSession.PLACEHOLDER-CLASS__WB_JoinSession_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/WB_MainMenu.PLACEHOLDER-CLASS__WB_Multiplayer_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/WB_Multiplayer.PLACEHOLDER-CLASS__WB_BaseButton_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/WB_Multiplayer.PLACEHOLDER-CLASS__WB_MainMenu_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/WB_Multiplayer.PLACEHOLDER-CLASS__WB_CreateSession_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/WB_Multiplayer.PLACEHOLDER-CLASS__WB_FindSession_C_3 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.09:795][849]LogEditorClassViewer: Warning: Class /Game/Sessions/Widgets/MainMenuGameMode.PLACEHOLDER-CLASS__WB_MainMenu_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.22-00.56.25:071][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.22-00.56.25:072][304]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/FB_MainMenu.FB_MainMenu
+[2022.09.22-00.56.25:072][304]Cmd: MAP LOAD FILE="../../../../FPS_Template/New_Template/FlutterBeam_Shooter/Content/ThirdPerson/Maps/FB_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.22-00.56.25:072][304]LightingResults: New page: Lighting Build
+[2022.09.22-00.56.25:072][304]LoadErrors: New page: Loading map: FB_MainMenu.umap
+[2022.09.22-00.56.25:105][304]LogWorld: UWorld::CleanupWorld for Intro, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-00.56.25:105][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-00.56.25:105][304]MapCheck: New page: Map Check
+[2022.09.22-00.56.25:106][304]LightingResults: New page: Lighting Build
+[2022.09.22-00.56.25:111][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-00.56.25:112][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.22-00.56.25:112][304]LogWorld: UWorld::CleanupWorld for FB_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-00.56.25:112][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-00.56.25:120][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.22-00.56.25:125][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.22-00.56.25:129][304]LogAudio: Display: Audio Device (ID: 1) registered with world 'FB_MainMenu'.
+[2022.09.22-00.56.25:129][304]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-00.56.25:129][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-00.56.25:129][304]LogAIModule: Creating AISystem for world FB_MainMenu
+[2022.09.22-00.56.25:140][304]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.22-00.56.25:148][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.22-00.56.25:157][304]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.22-00.56.25:157][304]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2022.09.22-00.56.25:157][304]LogFileHelpers: Loading map 'FB_MainMenu' took 0.085
+[2022.09.22-00.56.32:150][896]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Sessions/Widgets/WB_CreateSession.WB_CreateSession
+[2022.09.22-00.56.32:150][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-00.56.32:152][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-00.56.32:155][896]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.09.22-00.56.33:273][896]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.22-00.56.33:274][896]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.22-00.56.33:478][896]LogSlate: Took 0.030574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.22-00.56.33:484][896]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.09.22-00.56.35:441][962]LogSlate: Window 'WB_CreateSession' being destroyed
+[2022.09.22-00.56.36:524][ 14]LogSlate: Took 0.004632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.22-00.58.27:250][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.22-00.58.33:815][ 87]LogSkeletalMesh: Display: [AssetLog] R:\FPS_Template\New_Template\FlutterBeam_Shooter\Content\FPS\Weapons\SubmachineGun\SK_SMG.uasset: FMeshUtilities::CreateImportDataFromLODModel: ImportData created for LOD 0
+[2022.09.22-00.58.34:094][ 87]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 68B83EEBC4E8E13FDF515BCE5D22E446AF473E02), compiling. 
+[2022.09.22-00.58.35:006][ 87]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.09.22-00.58.35:070][ 87]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door should be resaved to improve async compilation performance.
+[2022.09.22-00.58.35:114][ 87]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.09.22-00.58.35:114][ 87]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.09.22-00.58.35:114][ 87]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B should be resaved to improve async compilation performance.
+[2022.09.22-00.58.35:601][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.09.22-00.58.35:601][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.09.22-00.58.35:602][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.09.22-00.58.35:602][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.09.22-00.58.35:603][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.09.22-00.58.35:603][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.09.22-00.58.35:604][ 87]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map3/Sunlight_Museum_Iteration1.Sunlight_Museum_Iteration1
+[2022.09.22-00.58.35:605][ 87]Cmd: MAP LOAD FILE="../../../../FPS_Template/New_Template/FlutterBeam_Shooter/Content/Map3/Sunlight_Museum_Iteration1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.22-00.58.35:605][ 87]LightingResults: New page: Lighting Build
+[2022.09.22-00.58.35:605][ 87]LoadErrors: New page: Loading map: Sunlight_Museum_Iteration1.umap
+[2022.09.22-00.58.35:645][ 87]LogWorld: UWorld::CleanupWorld for FB_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-00.58.35:645][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-00.58.35:645][ 87]MapCheck: New page: Map Check
+[2022.09.22-00.58.35:645][ 87]LightingResults: New page: Lighting Build
+[2022.09.22-00.58.35:684][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.22-00.58.35:754][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.09.22-00.58.38:643][ 87]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.22-00.58.38:643][ 87]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049968s
+[2022.09.22-00.58.42:352][ 87]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.09.22-00.58.42:352][ 87]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049981s
+[2022.09.22-00.59.09:515][ 87]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.004007s (27.208546s overbudget)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: ================================================
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Total job queries 91, among them cache hits 0 (0.00%)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 58 distinct outputs (63.74%)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Shaders Compiled: 91
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Jobs assigned 91, completed 91 (100.00%)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Time job spent in pending queue: average 16.22 s, longest 34.45 s
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Job execution time: average 6.90 s, max 12.97 s
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Job life time (pending + execution): average 23.13 s, max 35.06
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.06 s
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 5.69 jobs/batch
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.88 sec, max 1.42 sec, min 0.64 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.87 sec, max 1.65 sec, min 0.60 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 0.85 sec, max 1.60 sec, min 0.58 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.84 sec, max 1.50 sec, min 0.61 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.39% of total time (compiled    4 times, average 0.88 sec, max 1.42 sec, min 0.64 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.34% of total time (compiled    4 times, average 0.87 sec, max 1.65 sec, min 0.60 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 5.24% of total time (compiled    4 times, average 0.85 sec, max 1.60 sec, min 0.58 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.17% of total time (compiled    4 times, average 0.84 sec, max 1.50 sec, min 0.61 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.00% of total time (compiled    4 times, average 0.82 sec, max 1.47 sec, min 0.60 sec)
+[2022.09.22-00.59.09:552][ 87]LogShaderCompilers: Display: ================================================
+[2022.09.22-00.59.09:702][ 87]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration1, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-00.59.09:704][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-00.59.09:765][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.09.22-00.59.09:810][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.09.22-00.59.09:975][ 87]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sunlight_Museum_Iteration1'.
+[2022.09.22-00.59.09:975][ 87]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-00.59.09:975][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-00.59.09:976][ 87]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration1
+[2022.09.22-00.59.10:021][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.09.22-00.59.10:021][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.09.22-00.59.10:023][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.09.22-00.59.10:023][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.09.22-00.59.10:024][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.09.22-00.59.10:024][ 87]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.09.22-00.59.11:242][ 87]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.22-00.59.11:255][ 87]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.09.22-00.59.11:308][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.09.22-00.59.11:317][ 87]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.22-00.59.11:317][ 87]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2022.09.22-00.59.11:317][ 87]LogFileHelpers: Loading map 'Sunlight_Museum_Iteration1' took 35.713
+[2022.09.22-00.59.11:324][ 87]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003549s (29.182411s overbudget)
+[2022.09.22-00.59.15:992][146]LogNavigationDataBuild: Navigation data generation finished in /Game/Map3/Sunlight_Museum_Iteration1.
+[2022.09.22-01.00.54:375][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 796.233154
+[2022.09.22-01.00.54:666][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.22-01.00.54:666][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 796.515808, Update Interval: 314.277161
